@@ -22,3 +22,43 @@
 2020-07-06 21:51:12,245 INFO SampleTest [main] info logger test
 2020-07-06 21:51:12,245 FATAL SampleTest [main] fatal logger test
 2020-07-06 21:51:12,245 ERROR SampleTest [main] error logger test
+2020-07-06 22:25:00,629 INFO SampleTest [main] Драйвер поднят
+2020-07-06 22:25:51,510 INFO SampleTest [main] Драйвер поднят
+2020-07-06 22:25:54,007 INFO SampleTest [main] Открыта страница отус
+2020-07-06 22:27:00,995 INFO SampleTest [main] Драйвер поднят
+2020-07-06 22:28:16,411 INFO SampleTest [main] Драйвер поднят
+2020-07-06 22:31:12,054 INFO SampleTest [main] Драйвер поднят
+2020-07-06 22:34:28,699 INFO SampleTest [main] Драйвер поднят
+2020-07-06 22:34:28,717 INFO SampleTest [main] "https://otus.ru/"
+2020-07-06 22:34:28,717 FATAL SampleTest [main] fatal logger test
+2020-07-06 22:34:28,717 ERROR SampleTest [main] error logger test
+2020-07-06 22:34:44,790 INFO SampleTest [main] Драйвер поднят
+2020-07-06 22:34:44,804 INFO SampleTest [main] "https://otus.ru/"
+2020-07-06 22:34:44,805 FATAL SampleTest [main] fatal logger test
+2020-07-06 22:34:44,805 ERROR SampleTest [main] error logger test
+2020-07-06 22:35:54,452 INFO SampleTest [main] Драйвер поднят
+2020-07-06 22:36:54,842 INFO SampleTest [main] Драйвер поднят
+2020-07-06 22:36:57,350 INFO SampleTest [main] Открыта страница отус
+2020-07-06 22:36:58,710 INFO SampleTest [main] Драйвер поднят
+2020-07-06 22:36:58,741 INFO SampleTest [main] "https://otus.ru"
+2020-07-06 22:36:58,741 FATAL SampleTest [main] fatal logger test
+2020-07-06 22:36:58,741 ERROR SampleTest [main] error logger test
+2020-07-06 22:38:34,340 INFO SampleTest [main] Драйвер поднят
+2020-07-06 22:38:37,357 INFO SampleTest [main] Открыта страница отус
+2020-07-06 22:38:38,694 INFO SampleTest [main] Драйвер поднят
+2020-07-06 22:38:38,712 INFO SampleTest [main] "https://otus.ru"
+2020-07-06 22:38:38,712 FATAL SampleTest [main] fatal logger test
+2020-07-06 22:38:38,713 ERROR SampleTest [main] error logger test
+2020-07-06 22:39:46,571 INFO SampleTest [main] Драйвер поднят
+2020-07-06 22:39:48,101 INFO SampleTest [main] Драйвер поднят
+2020-07-06 22:39:48,104 INFO SampleTest [main] "https://otus.ru"
+2020-07-06 22:39:48,105 FATAL SampleTest [main] fatal logger test
+2020-07-06 22:46:18,455 INFO SampleTest [main] Драйвер поднят
+2020-07-06 22:46:19,840 INFO SampleTest [main] Драйвер поднят
+2020-07-06 22:46:19,841 INFO SampleTest [main] "https://otus.ru"
+2020-07-06 22:46:19,842 FATAL SampleTest [main] fatal logger test
+2020-07-06 22:47:29,945 INFO SampleTest [main] Драйвер поднят
+2020-07-06 22:47:32,989 INFO SampleTest [main] Открыта страница отус
+2020-07-06 22:47:34,402 INFO SampleTest [main] Драйвер поднят
+2020-07-06 22:47:34,403 INFO SampleTest [main] https://otus.ru
+2020-07-06 22:47:34,404 FATAL SampleTest [main] fatal logger test

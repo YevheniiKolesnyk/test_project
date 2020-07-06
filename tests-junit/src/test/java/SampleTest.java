@@ -1,4 +1,6 @@
+import config.ServerConfig;
 import io.github.bonigarcia.wdm.WebDriverManager;
+import org.aeonbits.owner.ConfigFactory;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.junit.After;
@@ -11,15 +13,9 @@ public class SampleTest {
 
     private Logger logger = LogManager.getLogger(SampleTest.class);
 
-    protected static WebDriver driver;
+    private ServerConfig cfg2 = ConfigFactory.create(ServerConfig.class);
 
-    @Test
-    public void Log() {
-        logger.info("info logger test");
-        logger.fatal("fatal logger test");
-        logger.error("error logger test");
-        logger.trace("trace logger test");
-    }
+    protected static WebDriver driver;
 
     @Before
     public void setUp() {
@@ -29,8 +25,14 @@ public class SampleTest {
     }
 
     @Test
+    public void Log() {
+        logger.info("info logger test");
+        logger.fatal("fatal logger test");
+    }
+
+    @Test
     public void openPage() {
-        driver.get("https://otus.ru/");
+        driver.get(cfg2.url());
         logger.info("Открыта страница отус");
     }
 
