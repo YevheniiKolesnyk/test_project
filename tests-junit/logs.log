@@ -1,0 +1,24 @@
+2020-07-06 21:13:46,772 INFO SampleTest [main] проверка логгера
+2020-07-06 21:23:40,640 INFO SampleTest [main] проверка логгера
+2020-07-06 21:30:57,185 INFO SampleTest [main] info logger test
+2020-07-06 21:30:57,187 FATAL SampleTest [main] fatal logger test
+2020-07-06 21:30:57,187 ERROR SampleTest [main] error logger test
+2020-07-06 21:37:40,909 INFO SampleTest [main] info logger test
+2020-07-06 21:37:40,911 FATAL SampleTest [main] fatal logger test
+2020-07-06 21:37:40,911 ERROR SampleTest [main] error logger test
+2020-07-06 21:48:33,069 INFO SampleTest [main] Драйвер поднят
+2020-07-06 21:48:33,073 INFO SampleTest [main] info logger test
+2020-07-06 21:48:33,074 FATAL SampleTest [main] fatal logger test
+2020-07-06 21:48:33,074 ERROR SampleTest [main] error logger test
+2020-07-06 21:49:20,746 INFO SampleTest [main] Драйвер поднят
+2020-07-06 21:49:20,749 INFO SampleTest [main] info logger test
+2020-07-06 21:49:20,749 FATAL SampleTest [main] fatal logger test
+2020-07-06 21:49:20,750 ERROR SampleTest [main] error logger test
+2020-07-06 21:49:35,726 INFO SampleTest [main] Драйвер поднят
+2020-07-06 21:49:38,194 INFO SampleTest [main] Открыта страница отус
+2020-07-06 21:51:08,413 INFO SampleTest [main] Драйвер поднят
+2020-07-06 21:51:10,888 INFO SampleTest [main] Открыта страница отус
+2020-07-06 21:51:12,244 INFO SampleTest [main] Драйвер поднят
+2020-07-06 21:51:12,245 INFO SampleTest [main] info logger test
+2020-07-06 21:51:12,245 FATAL SampleTest [main] fatal logger test
+2020-07-06 21:51:12,245 ERROR SampleTest [main] error logger test
