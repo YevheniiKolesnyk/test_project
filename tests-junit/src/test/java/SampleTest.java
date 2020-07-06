@@ -13,7 +13,7 @@ public class SampleTest {
 
     private Logger logger = LogManager.getLogger(SampleTest.class);
 
-    private ServerConfig cfg2 = ConfigFactory.create(ServerConfig.class);
+    private ServerConfig cfg = ConfigFactory.create(ServerConfig.class);
 
     protected static WebDriver driver;
 
@@ -32,7 +32,7 @@ public class SampleTest {
 
     @Test
     public void openPage() {
-        driver.get(cfg2.url());
+        driver.get(cfg.url());
         logger.info("Открыта страница отус");
     }
 
