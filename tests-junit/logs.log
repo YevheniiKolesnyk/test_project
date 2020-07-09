@@ -62,3 +62,83 @@
 2020-07-06 22:47:34,402 INFO SampleTest [main] Драйвер поднят
 2020-07-06 22:47:34,403 INFO SampleTest [main] https://otus.ru
 2020-07-06 22:47:34,404 FATAL SampleTest [main] fatal logger test
+2020-07-09 20:01:03,348 INFO SampleTest [main] Драйвер поднят
+2020-07-09 20:01:05,973 INFO SampleTest [main] Открыта страница отус
+2020-07-09 20:20:51,253 INFO SampleTest [main] Драйвер поднят
+2020-07-09 20:20:54,053 INFO SampleTest [main] Открыта страница отус
+2020-07-09 20:22:04,563 INFO SampleTest [main] Драйвер поднят
+2020-07-09 20:22:07,419 INFO SampleTest [main] Открыта страница отус
+2020-07-09 20:26:28,610 INFO SampleTest [main] Драйвер поднят
+2020-07-09 20:26:31,219 INFO SampleTest [main] Открыта страница отус
+2020-07-09 20:28:19,757 INFO SampleTest [main] Драйвер поднят
+2020-07-09 20:28:22,096 INFO SampleTest [main] Открыта страница отус
+2020-07-09 20:39:28,017 INFO SampleTest [main] driver up and running
+2020-07-09 20:39:30,670 INFO SampleTest [main] Открыта страница отус
+2020-07-09 20:40:51,935 INFO SampleTest [main] driver up and running
+2020-07-09 20:40:54,565 INFO SampleTest [main] Открыта страница отус
+2020-07-09 20:43:28,592 INFO SampleTest [main] driver up and running
+2020-07-09 20:43:31,347 INFO SampleTest [main] Открыта страница отус
+2020-07-09 20:46:37,687 INFO SampleTest [main] driver up and running
+2020-07-09 20:48:09,982 INFO SampleTest [main] driver up and running
+2020-07-09 20:49:07,502 INFO SampleTest [main] driver up and running
+2020-07-09 20:51:15,982 INFO SampleTest [main] driver up and running
+2020-07-09 20:51:18,756 INFO SampleTest [main] [Otus2=Value2; path=/; domain=otus.ru;secure;, Otus1=Value1; path=/; domain=otus.ru;secure;, carrotquest_session=4rvhuyisut65uk63jq5isoh1pf5o2fni; expires=Чт, 09 июл 2020 09:51:18 EEST; path=/; domain=.otus.ru, first-visit=1594317076.6306412; expires=Вс, 09 июл 2023 08:51:16 EEST; path=/; domain=otus.ru, _ga=GA1.2.669174879.1594317078; expires=Сб, 09 июл 2022 08:51:18 EEST; path=/; domain=.otus.ru, _fbp=fb.1.1594317078486.1594406458; expires=Ср, 07 окт 2020 08:51:18 EEST; path=/; domain=.otus.ru, sessionid=6vzs5wfl0p6ad127qgis7g0eu69gw6gp; expires=Ср, 07 окт 2020 08:51:16 EEST; path=/; domain=otus.ru;secure;, oid=35b8773a3b97068287238f368ad69f65; expires=Вс, 09 июл 2023 08:51:18 EEST; path=/; domain=.otus.ru, Otus4=Value4; path=/; domain=otus.ru;secure;, Otus3=Value3; path=/; domain=otus.ru;secure;, _gid=GA1.2.1572372416.1594317078; expires=Пт, 10 июл 2020 08:51:18 EEST; path=/; domain=.otus.ru, visits-count=1; expires=Вс, 09 июл 2023 08:51:16 EEST; path=/; domain=otus.ru]
+2020-07-09 20:51:18,769 INFO SampleTest [main] Otus2=Value2; path=/; domain=otus.ru;secure;
+2020-07-09 20:52:18,465 INFO SampleTest [main] driver up and running
+2020-07-09 20:52:21,579 INFO SampleTest [main] [Otus2=Value2; path=/; domain=otus.ru;secure;, Otus1=Value1; path=/; domain=otus.ru;secure;, carrotquest_session=9v1rxdyuvv8m6mbk9ct7vd2c2wyrje94; expires=Чт, 09 июл 2020 09:52:21 EEST; path=/; domain=.otus.ru, first-visit=1594317139.4193451; expires=Вс, 09 июл 2023 08:52:19 EEST; path=/; domain=otus.ru, _ga=GA1.2.1337726933.1594317141; expires=Сб, 09 июл 2022 08:52:21 EEST; path=/; domain=.otus.ru, _fbp=fb.1.1594317141285.1861179505; expires=Ср, 07 окт 2020 08:52:21 EEST; path=/; domain=.otus.ru, sessionid=jr8k7bh21zkjl21oec3ejyww6sys7e76; expires=Ср, 07 окт 2020 08:52:19 EEST; path=/; domain=otus.ru;secure;, oid=b6d5f24d0e81e2ac0d56fbc7460679a4; expires=Вс, 09 июл 2023 08:52:21 EEST; path=/; domain=.otus.ru, Otus4=Value4; path=/; domain=otus.ru;secure;, Otus3=Value3; path=/; domain=otus.ru;secure;, _gid=GA1.2.1512138045.1594317141; expires=Пт, 10 июл 2020 08:52:21 EEST; path=/; domain=.otus.ru, visits-count=1; expires=Вс, 09 июл 2023 08:52:19 EEST; path=/; domain=otus.ru]
+2020-07-09 20:52:21,593 INFO SampleTest [main] Otus2=Value2; path=/; domain=otus.ru;secure;
+2020-07-09 20:53:12,419 INFO SampleTest [main] driver up and running
+2020-07-09 20:53:15,003 INFO SampleTest [main] [Otus2=Value2; path=/; domain=otus.ru;secure;, Otus1=Value1; path=/; domain=otus.ru;secure;, carrotquest_session=shr9hozsmkps82va5b1404cs5x0ppj4f; expires=Чт, 09 июл 2020 09:53:14 EEST; path=/; domain=.otus.ru, first-visit=1594317193.0144117; expires=Вс, 09 июл 2023 08:53:13 EEST; path=/; domain=otus.ru, _ga=GA1.2.1661332148.1594317194; expires=Сб, 09 июл 2022 08:53:14 EEST; path=/; domain=.otus.ru, _fbp=fb.1.1594317194736.1619205850; expires=Ср, 07 окт 2020 08:53:14 EEST; path=/; domain=.otus.ru, sessionid=wnk0elkjgav1kigg6i3kg1w65n2dghwv; expires=Ср, 07 окт 2020 08:53:13 EEST; path=/; domain=otus.ru;secure;, oid=9995be17df1c31d72ee15ec5940a7aa8; expires=Вс, 09 июл 2023 08:53:13 EEST; path=/; domain=.otus.ru, Otus4=Value4; path=/; domain=otus.ru;secure;, Otus3=Value3; path=/; domain=otus.ru;secure;, _gid=GA1.2.1625459658.1594317194; expires=Пт, 10 июл 2020 08:53:14 EEST; path=/; domain=.otus.ru, visits-count=1; expires=Вс, 09 июл 2023 08:53:13 EEST; path=/; domain=otus.ru]
+2020-07-09 20:53:15,019 INFO SampleTest [main] Otus2=Value2; path=/; domain=otus.ru;secure;
+2020-07-09 20:53:15,140 INFO SampleTest [main] []
+2020-07-09 20:53:15,147 INFO SampleTest [main] null
+2020-07-09 20:55:02,327 INFO SampleTest [main] driver up and running
+2020-07-09 20:55:05,920 INFO SampleTest [main] [Otus2=Value2; path=/; domain=otus.ru;secure;, Otus1=Value1; path=/; domain=otus.ru;secure;, carrotquest_session=avoqqkabqhxvlw3jqgqjd2jbwfave1dt; expires=Чт, 09 июл 2020 09:55:05 EEST; path=/; domain=.otus.ru, first-visit=1594317303.7852533; expires=Вс, 09 июл 2023 08:55:03 EEST; path=/; domain=otus.ru, _ga=GA1.2.290732515.1594317305; expires=Сб, 09 июл 2022 08:55:05 EEST; path=/; domain=.otus.ru, _fbp=fb.1.1594317305671.172117401; expires=Ср, 07 окт 2020 08:55:05 EEST; path=/; domain=.otus.ru, sessionid=dv713bnetjstu2aa7qz2pwv7uoddkstb; expires=Ср, 07 окт 2020 08:55:03 EEST; path=/; domain=otus.ru;secure;, oid=570c3e62a719789d0d6c962dd00a2cb8; expires=Вс, 09 июл 2023 08:55:03 EEST; path=/; domain=.otus.ru, Otus4=Value4; path=/; domain=otus.ru;secure;, Otus3=Value3; path=/; domain=otus.ru;secure;, _gid=GA1.2.304873944.1594317305; expires=Пт, 10 июл 2020 08:55:05 EEST; path=/; domain=.otus.ru, visits-count=1; expires=Вс, 09 июл 2023 08:55:03 EEST; path=/; domain=otus.ru]
+2020-07-09 20:55:05,934 INFO SampleTest [main] Otus2=Value2; path=/; domain=otus.ru;secure;
+2020-07-09 20:55:06,024 INFO SampleTest [main] []
+2020-07-09 20:55:06,031 INFO SampleTest [main] null
+2020-07-09 21:05:43,521 INFO SampleTest [main] driver up and running
+2020-07-09 21:05:46,233 INFO SampleTest [main] [Otus2=Value2; path=/; domain=otus.ru;secure;, Otus1=Value1; path=/; domain=otus.ru;secure;, carrotquest_session=nm1pp2ehjdyeomtkzr8bovfgg3mk6atu; expires=Чт, 09 июл 2020 10:05:45 EEST; path=/; domain=.otus.ru, first-visit=1594317944.1401181; expires=Вс, 09 июл 2023 09:05:44 EEST; path=/; domain=otus.ru, _ga=GA1.2.1917515136.1594317946; expires=Сб, 09 июл 2022 09:05:45 EEST; path=/; domain=.otus.ru, _fbp=fb.1.1594317945960.728475578; expires=Ср, 07 окт 2020 09:05:46 EEST; path=/; domain=.otus.ru, sessionid=qwpqcrmjbdmgt46h2lfz4ezr6vy1ik6u; expires=Ср, 07 окт 2020 09:05:44 EEST; path=/; domain=otus.ru;secure;, oid=539e52f483db3622fd98e4e33c23a0fd; expires=Вс, 09 июл 2023 09:05:46 EEST; path=/; domain=.otus.ru, Otus4=Value4; path=/; domain=otus.ru;secure;, Otus3=Value3; path=/; domain=otus.ru;secure;, _gid=GA1.2.719112982.1594317946; expires=Пт, 10 июл 2020 09:05:45 EEST; path=/; domain=.otus.ru, visits-count=1; expires=Вс, 09 июл 2023 09:05:44 EEST; path=/; domain=otus.ru]
+2020-07-09 21:05:46,249 INFO SampleTest [main] Otus2=Value2; path=/; domain=otus.ru;secure;
+2020-07-09 21:05:46,367 INFO SampleTest [main] []
+2020-07-09 21:05:46,382 INFO SampleTest [main] null
+2020-07-09 21:08:59,032 INFO SampleTest [main] driver up and running
+2020-07-09 21:09:02,574 INFO SampleTest [main] [Otus2=Value2; path=/; domain=otus.ru;secure;, Otus1=Value1; path=/; domain=otus.ru;secure;, carrotquest_session=v6pcevq5r4kf1ofm1g9j9yjepf61huqh; expires=Чт, 09 июл 2020 10:09:02 EEST; path=/; domain=.otus.ru, first-visit=1594318140.28281; expires=Вс, 09 июл 2023 09:09:00 EEST; path=/; domain=otus.ru, _ga=GA1.2.1505652625.1594318142; expires=Сб, 09 июл 2022 09:09:02 EEST; path=/; domain=.otus.ru, _fbp=fb.1.1594318142524.1248876045; expires=Ср, 07 окт 2020 09:09:02 EEST; path=/; domain=.otus.ru, sessionid=0jp3l68z6maxb3rc361tp28kqwmcv38b; expires=Ср, 07 окт 2020 09:09:00 EEST; path=/; domain=otus.ru;secure;, oid=aba8acfb5267008dc8dbcd19f9a9dc27; expires=Вс, 09 июл 2023 09:09:00 EEST; path=/; domain=.otus.ru, Otus4=Value4; path=/; domain=otus.ru;secure;, Otus3=Value3; path=/; domain=otus.ru;secure;, _gid=GA1.2.1828896850.1594318142; expires=Пт, 10 июл 2020 09:09:02 EEST; path=/; domain=.otus.ru, visits-count=1; expires=Вс, 09 июл 2023 09:09:00 EEST; path=/; domain=otus.ru]
+2020-07-09 21:09:02,590 INFO SampleTest [main] Otus2=Value2; path=/; domain=otus.ru;secure;
+2020-07-09 21:09:02,671 INFO SampleTest [main] [_fbp=fb.1.1594318142628.1456475287; expires=Ср, 07 окт 2020 09:09:02 EEST; path=/; domain=.otus.ru]
+2020-07-09 21:09:02,681 INFO SampleTest [main] null
+2020-07-09 21:09:23,977 INFO SampleTest [main] driver up and running
+2020-07-09 21:09:26,597 INFO SampleTest [main] [Otus2=Value2; path=/; domain=otus.ru;secure;, Otus1=Value1; path=/; domain=otus.ru;secure;, carrotquest_session=z21tl7crlqemmfmt0c6uy3ofxef6y10q; expires=Чт, 09 июл 2020 10:09:26 EEST; path=/; domain=.otus.ru, first-visit=1594318164.548655; expires=Вс, 09 июл 2023 09:09:24 EEST; path=/; domain=otus.ru, _ga=GA1.2.1013290883.1594318166; expires=Сб, 09 июл 2022 09:09:26 EEST; path=/; domain=.otus.ru, _fbp=fb.1.1594318166338.1993042504; expires=Ср, 07 окт 2020 09:09:26 EEST; path=/; domain=.otus.ru, sessionid=yvzcb9kqo347jlen4m55hxff2cxtn2ec; expires=Ср, 07 окт 2020 09:09:24 EEST; path=/; domain=otus.ru;secure;, oid=d85f3b0c6810326f2e50b56c5ea03562; expires=Вс, 09 июл 2023 09:09:26 EEST; path=/; domain=.otus.ru, Otus4=Value4; path=/; domain=otus.ru;secure;, Otus3=Value3; path=/; domain=otus.ru;secure;, _gid=GA1.2.1380634096.1594318166; expires=Пт, 10 июл 2020 09:09:26 EEST; path=/; domain=.otus.ru, visits-count=1; expires=Вс, 09 июл 2023 09:09:24 EEST; path=/; domain=otus.ru]
+2020-07-09 21:09:26,613 INFO SampleTest [main] Otus2=Value2; path=/; domain=otus.ru;secure;
+2020-07-09 21:09:26,669 INFO SampleTest [main] []
+2020-07-09 21:09:26,679 INFO SampleTest [main] null
+2020-07-09 21:18:39,442 INFO SampleTest [main] driver up and running
+2020-07-09 21:21:14,172 INFO SampleTest [main] driver up and running
+2020-07-09 21:22:18,486 INFO SampleTest [main] driver up and running
+2020-07-09 21:22:22,163 INFO SampleTest [main] false
+2020-07-09 21:28:09,796 INFO SampleTest [main] driver up and running
+2020-07-09 21:30:01,143 INFO SampleTest [main] driver up and running
+2020-07-09 21:32:55,126 INFO SampleTest [main] driver up and running
+2020-07-09 21:33:17,002 INFO SampleTest [main] driver up and running
+2020-07-09 21:33:52,022 INFO SampleTest [main] driver up and running
+2020-07-09 21:34:38,736 INFO SampleTest [main] driver up and running
+2020-07-09 21:40:33,488 INFO SampleTest [main] driver up and running
+2020-07-09 21:43:31,596 INFO SampleTest [main] driver up and running
+2020-07-09 21:44:26,061 INFO SampleTest [main] driver up and running
+2020-07-09 21:44:56,425 INFO SampleTest [main] driver up and running
+2020-07-09 21:46:12,475 INFO SampleTest [main] driver up and running
+2020-07-09 21:47:45,196 INFO SampleTest [main] driver up and running
+2020-07-09 21:50:09,754 INFO SampleTest [main] driver up and running
+2020-07-09 21:50:45,110 INFO SampleTest [main] driver up and running
+2020-07-09 21:51:54,405 INFO SampleTest [main] driver up and running
+2020-07-09 21:53:10,978 INFO SampleTest [main] driver up and running
+2020-07-09 21:54:18,831 INFO SampleTest [main] driver up and running
+2020-07-09 21:55:10,540 INFO SampleTest [main] driver up and running
+2020-07-09 21:58:24,393 INFO SampleTest [main] driver up and running
+2020-07-09 22:15:32,352 INFO SampleTest [main] driver up and running
+2020-07-09 22:18:06,255 INFO SampleTest [main] driver up and running
+2020-07-09 22:30:30,447 INFO SampleTest [main] driver up and running
+2020-07-09 22:52:18,216 INFO SampleTest [main] driver up and running
+2020-07-09 22:52:19,987 INFO SampleTest [main] google page is opened
+2020-07-09 23:01:51,959 INFO SampleTest [main] driver up and running
+2020-07-09 23:01:53,678 INFO SampleTest [main] google page is opened
