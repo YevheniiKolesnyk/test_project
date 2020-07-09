@@ -49,10 +49,10 @@ public class SampleTest {
         driver.findElement(By.xpath("//input[@type = 'text' and @role = 'combobox']"))
             .sendKeys("otus");;
 
-        waitUntilClickableAndClick("//div//span[text() = 'otus']", 2);
+        waitUntilClickableAndClick("//div//span[text() = 'otus']", 3);
         waitUntilClickableAndClick("//h3[text() = 'Otus']", 6);
 
-        waitUntilVisible("//title[contains(text(),'Онлайн‑курсы для профессионалов')]");
+        driver.findElement(By.xpath("//title[contains(text(),'Онлайн‑курсы для профессионалов')]"));
         logger.info("OTUS main page is opened");
 
     }

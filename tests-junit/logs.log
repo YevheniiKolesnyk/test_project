@@ -142,3 +142,8 @@
 2020-07-09 22:52:19,987 INFO SampleTest [main] google page is opened
 2020-07-09 23:01:51,959 INFO SampleTest [main] driver up and running
 2020-07-09 23:01:53,678 INFO SampleTest [main] google page is opened
+2020-07-09 23:29:11,353 INFO SampleTest [main] driver up and running
+2020-07-09 23:29:13,186 INFO SampleTest [main] google page is opened
+2020-07-09 23:30:38,349 INFO SampleTest [main] driver up and running
+2020-07-09 23:30:40,138 INFO SampleTest [main] google page is opened
+2020-07-09 23:30:48,459 INFO SampleTest [main] OTUS main page is opened
