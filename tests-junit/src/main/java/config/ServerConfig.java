@@ -1,6 +1,5 @@
 package config;
 
-
 import org.aeonbits.owner.Config;
 import org.aeonbits.owner.Config.Sources;
 
@@ -12,5 +11,14 @@ public interface ServerConfig extends Config {
 
     @Key("googleUrl")
     String googleUrl();
+
+    @Key("email")
+    String email();
+
+    @Key("password")
+    String password();
+
+    @Key("otusPersonal")
+    String otusPersonal();
 
 }

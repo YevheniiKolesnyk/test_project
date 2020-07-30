@@ -1,149 +1,412 @@
-2020-07-06 21:13:46,772 INFO SampleTest [main] проверка логгера
-2020-07-06 21:23:40,640 INFO SampleTest [main] проверка логгера
-2020-07-06 21:30:57,185 INFO SampleTest [main] info logger test
-2020-07-06 21:30:57,187 FATAL SampleTest [main] fatal logger test
-2020-07-06 21:30:57,187 ERROR SampleTest [main] error logger test
-2020-07-06 21:37:40,909 INFO SampleTest [main] info logger test
-2020-07-06 21:37:40,911 FATAL SampleTest [main] fatal logger test
-2020-07-06 21:37:40,911 ERROR SampleTest [main] error logger test
-2020-07-06 21:48:33,069 INFO SampleTest [main] Драйвер поднят
-2020-07-06 21:48:33,073 INFO SampleTest [main] info logger test
-2020-07-06 21:48:33,074 FATAL SampleTest [main] fatal logger test
-2020-07-06 21:48:33,074 ERROR SampleTest [main] error logger test
-2020-07-06 21:49:20,746 INFO SampleTest [main] Драйвер поднят
-2020-07-06 21:49:20,749 INFO SampleTest [main] info logger test
-2020-07-06 21:49:20,749 FATAL SampleTest [main] fatal logger test
-2020-07-06 21:49:20,750 ERROR SampleTest [main] error logger test
-2020-07-06 21:49:35,726 INFO SampleTest [main] Драйвер поднят
-2020-07-06 21:49:38,194 INFO SampleTest [main] Открыта страница отус
-2020-07-06 21:51:08,413 INFO SampleTest [main] Драйвер поднят
-2020-07-06 21:51:10,888 INFO SampleTest [main] Открыта страница отус
-2020-07-06 21:51:12,244 INFO SampleTest [main] Драйвер поднят
-2020-07-06 21:51:12,245 INFO SampleTest [main] info logger test
-2020-07-06 21:51:12,245 FATAL SampleTest [main] fatal logger test
-2020-07-06 21:51:12,245 ERROR SampleTest [main] error logger test
-2020-07-06 22:25:00,629 INFO SampleTest [main] Драйвер поднят
-2020-07-06 22:25:51,510 INFO SampleTest [main] Драйвер поднят
-2020-07-06 22:25:54,007 INFO SampleTest [main] Открыта страница отус
-2020-07-06 22:27:00,995 INFO SampleTest [main] Драйвер поднят
-2020-07-06 22:28:16,411 INFO SampleTest [main] Драйвер поднят
-2020-07-06 22:31:12,054 INFO SampleTest [main] Драйвер поднят
-2020-07-06 22:34:28,699 INFO SampleTest [main] Драйвер поднят
-2020-07-06 22:34:28,717 INFO SampleTest [main] "https://otus.ru/"
-2020-07-06 22:34:28,717 FATAL SampleTest [main] fatal logger test
-2020-07-06 22:34:28,717 ERROR SampleTest [main] error logger test
-2020-07-06 22:34:44,790 INFO SampleTest [main] Драйвер поднят
-2020-07-06 22:34:44,804 INFO SampleTest [main] "https://otus.ru/"
-2020-07-06 22:34:44,805 FATAL SampleTest [main] fatal logger test
-2020-07-06 22:34:44,805 ERROR SampleTest [main] error logger test
-2020-07-06 22:35:54,452 INFO SampleTest [main] Драйвер поднят
-2020-07-06 22:36:54,842 INFO SampleTest [main] Драйвер поднят
-2020-07-06 22:36:57,350 INFO SampleTest [main] Открыта страница отус
-2020-07-06 22:36:58,710 INFO SampleTest [main] Драйвер поднят
-2020-07-06 22:36:58,741 INFO SampleTest [main] "https://otus.ru"
-2020-07-06 22:36:58,741 FATAL SampleTest [main] fatal logger test
-2020-07-06 22:36:58,741 ERROR SampleTest [main] error logger test
-2020-07-06 22:38:34,340 INFO SampleTest [main] Драйвер поднят
-2020-07-06 22:38:37,357 INFO SampleTest [main] Открыта страница отус
-2020-07-06 22:38:38,694 INFO SampleTest [main] Драйвер поднят
-2020-07-06 22:38:38,712 INFO SampleTest [main] "https://otus.ru"
-2020-07-06 22:38:38,712 FATAL SampleTest [main] fatal logger test
-2020-07-06 22:38:38,713 ERROR SampleTest [main] error logger test
-2020-07-06 22:39:46,571 INFO SampleTest [main] Драйвер поднят
-2020-07-06 22:39:48,101 INFO SampleTest [main] Драйвер поднят
-2020-07-06 22:39:48,104 INFO SampleTest [main] "https://otus.ru"
-2020-07-06 22:39:48,105 FATAL SampleTest [main] fatal logger test
-2020-07-06 22:46:18,455 INFO SampleTest [main] Драйвер поднят
-2020-07-06 22:46:19,840 INFO SampleTest [main] Драйвер поднят
-2020-07-06 22:46:19,841 INFO SampleTest [main] "https://otus.ru"
-2020-07-06 22:46:19,842 FATAL SampleTest [main] fatal logger test
-2020-07-06 22:47:29,945 INFO SampleTest [main] Драйвер поднят
-2020-07-06 22:47:32,989 INFO SampleTest [main] Открыта страница отус
-2020-07-06 22:47:34,402 INFO SampleTest [main] Драйвер поднят
-2020-07-06 22:47:34,403 INFO SampleTest [main] https://otus.ru
-2020-07-06 22:47:34,404 FATAL SampleTest [main] fatal logger test
-2020-07-09 20:01:03,348 INFO SampleTest [main] Драйвер поднят
-2020-07-09 20:01:05,973 INFO SampleTest [main] Открыта страница отус
-2020-07-09 20:20:51,253 INFO SampleTest [main] Драйвер поднят
-2020-07-09 20:20:54,053 INFO SampleTest [main] Открыта страница отус
-2020-07-09 20:22:04,563 INFO SampleTest [main] Драйвер поднят
-2020-07-09 20:22:07,419 INFO SampleTest [main] Открыта страница отус
-2020-07-09 20:26:28,610 INFO SampleTest [main] Драйвер поднят
-2020-07-09 20:26:31,219 INFO SampleTest [main] Открыта страница отус
-2020-07-09 20:28:19,757 INFO SampleTest [main] Драйвер поднят
-2020-07-09 20:28:22,096 INFO SampleTest [main] Открыта страница отус
-2020-07-09 20:39:28,017 INFO SampleTest [main] driver up and running
-2020-07-09 20:39:30,670 INFO SampleTest [main] Открыта страница отус
-2020-07-09 20:40:51,935 INFO SampleTest [main] driver up and running
-2020-07-09 20:40:54,565 INFO SampleTest [main] Открыта страница отус
-2020-07-09 20:43:28,592 INFO SampleTest [main] driver up and running
-2020-07-09 20:43:31,347 INFO SampleTest [main] Открыта страница отус
-2020-07-09 20:46:37,687 INFO SampleTest [main] driver up and running
-2020-07-09 20:48:09,982 INFO SampleTest [main] driver up and running
-2020-07-09 20:49:07,502 INFO SampleTest [main] driver up and running
-2020-07-09 20:51:15,982 INFO SampleTest [main] driver up and running
-2020-07-09 20:51:18,756 INFO SampleTest [main] [Otus2=Value2; path=/; domain=otus.ru;secure;, Otus1=Value1; path=/; domain=otus.ru;secure;, carrotquest_session=4rvhuyisut65uk63jq5isoh1pf5o2fni; expires=Чт, 09 июл 2020 09:51:18 EEST; path=/; domain=.otus.ru, first-visit=1594317076.6306412; expires=Вс, 09 июл 2023 08:51:16 EEST; path=/; domain=otus.ru, _ga=GA1.2.669174879.1594317078; expires=Сб, 09 июл 2022 08:51:18 EEST; path=/; domain=.otus.ru, _fbp=fb.1.1594317078486.1594406458; expires=Ср, 07 окт 2020 08:51:18 EEST; path=/; domain=.otus.ru, sessionid=6vzs5wfl0p6ad127qgis7g0eu69gw6gp; expires=Ср, 07 окт 2020 08:51:16 EEST; path=/; domain=otus.ru;secure;, oid=35b8773a3b97068287238f368ad69f65; expires=Вс, 09 июл 2023 08:51:18 EEST; path=/; domain=.otus.ru, Otus4=Value4; path=/; domain=otus.ru;secure;, Otus3=Value3; path=/; domain=otus.ru;secure;, _gid=GA1.2.1572372416.1594317078; expires=Пт, 10 июл 2020 08:51:18 EEST; path=/; domain=.otus.ru, visits-count=1; expires=Вс, 09 июл 2023 08:51:16 EEST; path=/; domain=otus.ru]
-2020-07-09 20:51:18,769 INFO SampleTest [main] Otus2=Value2; path=/; domain=otus.ru;secure;
-2020-07-09 20:52:18,465 INFO SampleTest [main] driver up and running
-2020-07-09 20:52:21,579 INFO SampleTest [main] [Otus2=Value2; path=/; domain=otus.ru;secure;, Otus1=Value1; path=/; domain=otus.ru;secure;, carrotquest_session=9v1rxdyuvv8m6mbk9ct7vd2c2wyrje94; expires=Чт, 09 июл 2020 09:52:21 EEST; path=/; domain=.otus.ru, first-visit=1594317139.4193451; expires=Вс, 09 июл 2023 08:52:19 EEST; path=/; domain=otus.ru, _ga=GA1.2.1337726933.1594317141; expires=Сб, 09 июл 2022 08:52:21 EEST; path=/; domain=.otus.ru, _fbp=fb.1.1594317141285.1861179505; expires=Ср, 07 окт 2020 08:52:21 EEST; path=/; domain=.otus.ru, sessionid=jr8k7bh21zkjl21oec3ejyww6sys7e76; expires=Ср, 07 окт 2020 08:52:19 EEST; path=/; domain=otus.ru;secure;, oid=b6d5f24d0e81e2ac0d56fbc7460679a4; expires=Вс, 09 июл 2023 08:52:21 EEST; path=/; domain=.otus.ru, Otus4=Value4; path=/; domain=otus.ru;secure;, Otus3=Value3; path=/; domain=otus.ru;secure;, _gid=GA1.2.1512138045.1594317141; expires=Пт, 10 июл 2020 08:52:21 EEST; path=/; domain=.otus.ru, visits-count=1; expires=Вс, 09 июл 2023 08:52:19 EEST; path=/; domain=otus.ru]
-2020-07-09 20:52:21,593 INFO SampleTest [main] Otus2=Value2; path=/; domain=otus.ru;secure;
-2020-07-09 20:53:12,419 INFO SampleTest [main] driver up and running
-2020-07-09 20:53:15,003 INFO SampleTest [main] [Otus2=Value2; path=/; domain=otus.ru;secure;, Otus1=Value1; path=/; domain=otus.ru;secure;, carrotquest_session=shr9hozsmkps82va5b1404cs5x0ppj4f; expires=Чт, 09 июл 2020 09:53:14 EEST; path=/; domain=.otus.ru, first-visit=1594317193.0144117; expires=Вс, 09 июл 2023 08:53:13 EEST; path=/; domain=otus.ru, _ga=GA1.2.1661332148.1594317194; expires=Сб, 09 июл 2022 08:53:14 EEST; path=/; domain=.otus.ru, _fbp=fb.1.1594317194736.1619205850; expires=Ср, 07 окт 2020 08:53:14 EEST; path=/; domain=.otus.ru, sessionid=wnk0elkjgav1kigg6i3kg1w65n2dghwv; expires=Ср, 07 окт 2020 08:53:13 EEST; path=/; domain=otus.ru;secure;, oid=9995be17df1c31d72ee15ec5940a7aa8; expires=Вс, 09 июл 2023 08:53:13 EEST; path=/; domain=.otus.ru, Otus4=Value4; path=/; domain=otus.ru;secure;, Otus3=Value3; path=/; domain=otus.ru;secure;, _gid=GA1.2.1625459658.1594317194; expires=Пт, 10 июл 2020 08:53:14 EEST; path=/; domain=.otus.ru, visits-count=1; expires=Вс, 09 июл 2023 08:53:13 EEST; path=/; domain=otus.ru]
-2020-07-09 20:53:15,019 INFO SampleTest [main] Otus2=Value2; path=/; domain=otus.ru;secure;
-2020-07-09 20:53:15,140 INFO SampleTest [main] []
-2020-07-09 20:53:15,147 INFO SampleTest [main] null
-2020-07-09 20:55:02,327 INFO SampleTest [main] driver up and running
-2020-07-09 20:55:05,920 INFO SampleTest [main] [Otus2=Value2; path=/; domain=otus.ru;secure;, Otus1=Value1; path=/; domain=otus.ru;secure;, carrotquest_session=avoqqkabqhxvlw3jqgqjd2jbwfave1dt; expires=Чт, 09 июл 2020 09:55:05 EEST; path=/; domain=.otus.ru, first-visit=1594317303.7852533; expires=Вс, 09 июл 2023 08:55:03 EEST; path=/; domain=otus.ru, _ga=GA1.2.290732515.1594317305; expires=Сб, 09 июл 2022 08:55:05 EEST; path=/; domain=.otus.ru, _fbp=fb.1.1594317305671.172117401; expires=Ср, 07 окт 2020 08:55:05 EEST; path=/; domain=.otus.ru, sessionid=dv713bnetjstu2aa7qz2pwv7uoddkstb; expires=Ср, 07 окт 2020 08:55:03 EEST; path=/; domain=otus.ru;secure;, oid=570c3e62a719789d0d6c962dd00a2cb8; expires=Вс, 09 июл 2023 08:55:03 EEST; path=/; domain=.otus.ru, Otus4=Value4; path=/; domain=otus.ru;secure;, Otus3=Value3; path=/; domain=otus.ru;secure;, _gid=GA1.2.304873944.1594317305; expires=Пт, 10 июл 2020 08:55:05 EEST; path=/; domain=.otus.ru, visits-count=1; expires=Вс, 09 июл 2023 08:55:03 EEST; path=/; domain=otus.ru]
-2020-07-09 20:55:05,934 INFO SampleTest [main] Otus2=Value2; path=/; domain=otus.ru;secure;
-2020-07-09 20:55:06,024 INFO SampleTest [main] []
-2020-07-09 20:55:06,031 INFO SampleTest [main] null
-2020-07-09 21:05:43,521 INFO SampleTest [main] driver up and running
-2020-07-09 21:05:46,233 INFO SampleTest [main] [Otus2=Value2; path=/; domain=otus.ru;secure;, Otus1=Value1; path=/; domain=otus.ru;secure;, carrotquest_session=nm1pp2ehjdyeomtkzr8bovfgg3mk6atu; expires=Чт, 09 июл 2020 10:05:45 EEST; path=/; domain=.otus.ru, first-visit=1594317944.1401181; expires=Вс, 09 июл 2023 09:05:44 EEST; path=/; domain=otus.ru, _ga=GA1.2.1917515136.1594317946; expires=Сб, 09 июл 2022 09:05:45 EEST; path=/; domain=.otus.ru, _fbp=fb.1.1594317945960.728475578; expires=Ср, 07 окт 2020 09:05:46 EEST; path=/; domain=.otus.ru, sessionid=qwpqcrmjbdmgt46h2lfz4ezr6vy1ik6u; expires=Ср, 07 окт 2020 09:05:44 EEST; path=/; domain=otus.ru;secure;, oid=539e52f483db3622fd98e4e33c23a0fd; expires=Вс, 09 июл 2023 09:05:46 EEST; path=/; domain=.otus.ru, Otus4=Value4; path=/; domain=otus.ru;secure;, Otus3=Value3; path=/; domain=otus.ru;secure;, _gid=GA1.2.719112982.1594317946; expires=Пт, 10 июл 2020 09:05:45 EEST; path=/; domain=.otus.ru, visits-count=1; expires=Вс, 09 июл 2023 09:05:44 EEST; path=/; domain=otus.ru]
-2020-07-09 21:05:46,249 INFO SampleTest [main] Otus2=Value2; path=/; domain=otus.ru;secure;
-2020-07-09 21:05:46,367 INFO SampleTest [main] []
-2020-07-09 21:05:46,382 INFO SampleTest [main] null
-2020-07-09 21:08:59,032 INFO SampleTest [main] driver up and running
-2020-07-09 21:09:02,574 INFO SampleTest [main] [Otus2=Value2; path=/; domain=otus.ru;secure;, Otus1=Value1; path=/; domain=otus.ru;secure;, carrotquest_session=v6pcevq5r4kf1ofm1g9j9yjepf61huqh; expires=Чт, 09 июл 2020 10:09:02 EEST; path=/; domain=.otus.ru, first-visit=1594318140.28281; expires=Вс, 09 июл 2023 09:09:00 EEST; path=/; domain=otus.ru, _ga=GA1.2.1505652625.1594318142; expires=Сб, 09 июл 2022 09:09:02 EEST; path=/; domain=.otus.ru, _fbp=fb.1.1594318142524.1248876045; expires=Ср, 07 окт 2020 09:09:02 EEST; path=/; domain=.otus.ru, sessionid=0jp3l68z6maxb3rc361tp28kqwmcv38b; expires=Ср, 07 окт 2020 09:09:00 EEST; path=/; domain=otus.ru;secure;, oid=aba8acfb5267008dc8dbcd19f9a9dc27; expires=Вс, 09 июл 2023 09:09:00 EEST; path=/; domain=.otus.ru, Otus4=Value4; path=/; domain=otus.ru;secure;, Otus3=Value3; path=/; domain=otus.ru;secure;, _gid=GA1.2.1828896850.1594318142; expires=Пт, 10 июл 2020 09:09:02 EEST; path=/; domain=.otus.ru, visits-count=1; expires=Вс, 09 июл 2023 09:09:00 EEST; path=/; domain=otus.ru]
-2020-07-09 21:09:02,590 INFO SampleTest [main] Otus2=Value2; path=/; domain=otus.ru;secure;
-2020-07-09 21:09:02,671 INFO SampleTest [main] [_fbp=fb.1.1594318142628.1456475287; expires=Ср, 07 окт 2020 09:09:02 EEST; path=/; domain=.otus.ru]
-2020-07-09 21:09:02,681 INFO SampleTest [main] null
-2020-07-09 21:09:23,977 INFO SampleTest [main] driver up and running
-2020-07-09 21:09:26,597 INFO SampleTest [main] [Otus2=Value2; path=/; domain=otus.ru;secure;, Otus1=Value1; path=/; domain=otus.ru;secure;, carrotquest_session=z21tl7crlqemmfmt0c6uy3ofxef6y10q; expires=Чт, 09 июл 2020 10:09:26 EEST; path=/; domain=.otus.ru, first-visit=1594318164.548655; expires=Вс, 09 июл 2023 09:09:24 EEST; path=/; domain=otus.ru, _ga=GA1.2.1013290883.1594318166; expires=Сб, 09 июл 2022 09:09:26 EEST; path=/; domain=.otus.ru, _fbp=fb.1.1594318166338.1993042504; expires=Ср, 07 окт 2020 09:09:26 EEST; path=/; domain=.otus.ru, sessionid=yvzcb9kqo347jlen4m55hxff2cxtn2ec; expires=Ср, 07 окт 2020 09:09:24 EEST; path=/; domain=otus.ru;secure;, oid=d85f3b0c6810326f2e50b56c5ea03562; expires=Вс, 09 июл 2023 09:09:26 EEST; path=/; domain=.otus.ru, Otus4=Value4; path=/; domain=otus.ru;secure;, Otus3=Value3; path=/; domain=otus.ru;secure;, _gid=GA1.2.1380634096.1594318166; expires=Пт, 10 июл 2020 09:09:26 EEST; path=/; domain=.otus.ru, visits-count=1; expires=Вс, 09 июл 2023 09:09:24 EEST; path=/; domain=otus.ru]
-2020-07-09 21:09:26,613 INFO SampleTest [main] Otus2=Value2; path=/; domain=otus.ru;secure;
-2020-07-09 21:09:26,669 INFO SampleTest [main] []
-2020-07-09 21:09:26,679 INFO SampleTest [main] null
-2020-07-09 21:18:39,442 INFO SampleTest [main] driver up and running
-2020-07-09 21:21:14,172 INFO SampleTest [main] driver up and running
-2020-07-09 21:22:18,486 INFO SampleTest [main] driver up and running
-2020-07-09 21:22:22,163 INFO SampleTest [main] false
-2020-07-09 21:28:09,796 INFO SampleTest [main] driver up and running
-2020-07-09 21:30:01,143 INFO SampleTest [main] driver up and running
-2020-07-09 21:32:55,126 INFO SampleTest [main] driver up and running
-2020-07-09 21:33:17,002 INFO SampleTest [main] driver up and running
-2020-07-09 21:33:52,022 INFO SampleTest [main] driver up and running
-2020-07-09 21:34:38,736 INFO SampleTest [main] driver up and running
-2020-07-09 21:40:33,488 INFO SampleTest [main] driver up and running
-2020-07-09 21:43:31,596 INFO SampleTest [main] driver up and running
-2020-07-09 21:44:26,061 INFO SampleTest [main] driver up and running
-2020-07-09 21:44:56,425 INFO SampleTest [main] driver up and running
-2020-07-09 21:46:12,475 INFO SampleTest [main] driver up and running
-2020-07-09 21:47:45,196 INFO SampleTest [main] driver up and running
-2020-07-09 21:50:09,754 INFO SampleTest [main] driver up and running
-2020-07-09 21:50:45,110 INFO SampleTest [main] driver up and running
-2020-07-09 21:51:54,405 INFO SampleTest [main] driver up and running
-2020-07-09 21:53:10,978 INFO SampleTest [main] driver up and running
-2020-07-09 21:54:18,831 INFO SampleTest [main] driver up and running
-2020-07-09 21:55:10,540 INFO SampleTest [main] driver up and running
-2020-07-09 21:58:24,393 INFO SampleTest [main] driver up and running
-2020-07-09 22:15:32,352 INFO SampleTest [main] driver up and running
-2020-07-09 22:18:06,255 INFO SampleTest [main] driver up and running
-2020-07-09 22:30:30,447 INFO SampleTest [main] driver up and running
-2020-07-09 22:52:18,216 INFO SampleTest [main] driver up and running
-2020-07-09 22:52:19,987 INFO SampleTest [main] google page is opened
-2020-07-09 23:01:51,959 INFO SampleTest [main] driver up and running
-2020-07-09 23:01:53,678 INFO SampleTest [main] google page is opened
-2020-07-09 23:29:11,353 INFO SampleTest [main] driver up and running
-2020-07-09 23:29:13,186 INFO SampleTest [main] google page is opened
-2020-07-09 23:30:38,349 INFO SampleTest [main] driver up and running
-2020-07-09 23:30:40,138 INFO SampleTest [main] google page is opened
-2020-07-09 23:30:48,459 INFO SampleTest [main] OTUS main page is opened
+2020-07-06 21:13:46,772 INFO OtusTests [main] проверка логгера
+2020-07-06 21:23:40,640 INFO OtusTests [main] проверка логгера
+2020-07-06 21:30:57,185 INFO OtusTests [main] info logger test
+2020-07-06 21:30:57,187 FATAL OtusTests [main] fatal logger test
+2020-07-06 21:30:57,187 ERROR OtusTests [main] error logger test
+2020-07-06 21:37:40,909 INFO OtusTests [main] info logger test
+2020-07-06 21:37:40,911 FATAL OtusTests [main] fatal logger test
+2020-07-06 21:37:40,911 ERROR OtusTests [main] error logger test
+2020-07-06 21:48:33,069 INFO OtusTests [main] Драйвер поднят
+2020-07-06 21:48:33,073 INFO OtusTests [main] info logger test
+2020-07-06 21:48:33,074 FATAL OtusTests [main] fatal logger test
+2020-07-06 21:48:33,074 ERROR OtusTests [main] error logger test
+2020-07-06 21:49:20,746 INFO OtusTests [main] Драйвер поднят
+2020-07-06 21:49:20,749 INFO OtusTests [main] info logger test
+2020-07-06 21:49:20,749 FATAL OtusTests [main] fatal logger test
+2020-07-06 21:49:20,750 ERROR OtusTests [main] error logger test
+2020-07-06 21:49:35,726 INFO OtusTests [main] Драйвер поднят
+2020-07-06 21:49:38,194 INFO OtusTests [main] Открыта страница отус
+2020-07-06 21:51:08,413 INFO OtusTests [main] Драйвер поднят
+2020-07-06 21:51:10,888 INFO OtusTests [main] Открыта страница отус
+2020-07-06 21:51:12,244 INFO OtusTests [main] Драйвер поднят
+2020-07-06 21:51:12,245 INFO OtusTests [main] info logger test
+2020-07-06 21:51:12,245 FATAL OtusTests [main] fatal logger test
+2020-07-06 21:51:12,245 ERROR OtusTests [main] error logger test
+2020-07-06 22:25:00,629 INFO OtusTests [main] Драйвер поднят
+2020-07-06 22:25:51,510 INFO OtusTests [main] Драйвер поднят
+2020-07-06 22:25:54,007 INFO OtusTests [main] Открыта страница отус
+2020-07-06 22:27:00,995 INFO OtusTests [main] Драйвер поднят
+2020-07-06 22:28:16,411 INFO OtusTests [main] Драйвер поднят
+2020-07-06 22:31:12,054 INFO OtusTests [main] Драйвер поднят
+2020-07-06 22:34:28,699 INFO OtusTests [main] Драйвер поднят
+2020-07-06 22:34:28,717 INFO OtusTests [main] "https://otus.ru/"
+2020-07-06 22:34:28,717 FATAL OtusTests [main] fatal logger test
+2020-07-06 22:34:28,717 ERROR OtusTests [main] error logger test
+2020-07-06 22:34:44,790 INFO OtusTests [main] Драйвер поднят
+2020-07-06 22:34:44,804 INFO OtusTests [main] "https://otus.ru/"
+2020-07-06 22:34:44,805 FATAL OtusTests [main] fatal logger test
+2020-07-06 22:34:44,805 ERROR OtusTests [main] error logger test
+2020-07-06 22:35:54,452 INFO OtusTests [main] Драйвер поднят
+2020-07-06 22:36:54,842 INFO OtusTests [main] Драйвер поднят
+2020-07-06 22:36:57,350 INFO OtusTests [main] Открыта страница отус
+2020-07-06 22:36:58,710 INFO OtusTests [main] Драйвер поднят
+2020-07-06 22:36:58,741 INFO OtusTests [main] "https://otus.ru"
+2020-07-06 22:36:58,741 FATAL OtusTests [main] fatal logger test
+2020-07-06 22:36:58,741 ERROR OtusTests [main] error logger test
+2020-07-06 22:38:34,340 INFO OtusTests [main] Драйвер поднят
+2020-07-06 22:38:37,357 INFO OtusTests [main] Открыта страница отус
+2020-07-06 22:38:38,694 INFO OtusTests [main] Драйвер поднят
+2020-07-06 22:38:38,712 INFO OtusTests [main] "https://otus.ru"
+2020-07-06 22:38:38,712 FATAL OtusTests [main] fatal logger test
+2020-07-06 22:38:38,713 ERROR OtusTests [main] error logger test
+2020-07-06 22:39:46,571 INFO OtusTests [main] Драйвер поднят
+2020-07-06 22:39:48,101 INFO OtusTests [main] Драйвер поднят
+2020-07-06 22:39:48,104 INFO OtusTests [main] "https://otus.ru"
+2020-07-06 22:39:48,105 FATAL OtusTests [main] fatal logger test
+2020-07-06 22:46:18,455 INFO OtusTests [main] Драйвер поднят
+2020-07-06 22:46:19,840 INFO OtusTests [main] Драйвер поднят
+2020-07-06 22:46:19,841 INFO OtusTests [main] "https://otus.ru"
+2020-07-06 22:46:19,842 FATAL OtusTests [main] fatal logger test
+2020-07-06 22:47:29,945 INFO OtusTests [main] Драйвер поднят
+2020-07-06 22:47:32,989 INFO OtusTests [main] Открыта страница отус
+2020-07-06 22:47:34,402 INFO OtusTests [main] Драйвер поднят
+2020-07-06 22:47:34,403 INFO OtusTests [main] https://otus.ru
+2020-07-06 22:47:34,404 FATAL OtusTests [main] fatal logger test
+2020-07-09 20:01:03,348 INFO OtusTests [main] Драйвер поднят
+2020-07-09 20:01:05,973 INFO OtusTests [main] Открыта страница отус
+2020-07-09 20:20:51,253 INFO OtusTests [main] Драйвер поднят
+2020-07-09 20:20:54,053 INFO OtusTests [main] Открыта страница отус
+2020-07-09 20:22:04,563 INFO OtusTests [main] Драйвер поднят
+2020-07-09 20:22:07,419 INFO OtusTests [main] Открыта страница отус
+2020-07-09 20:26:28,610 INFO OtusTests [main] Драйвер поднят
+2020-07-09 20:26:31,219 INFO OtusTests [main] Открыта страница отус
+2020-07-09 20:28:19,757 INFO OtusTests [main] Драйвер поднят
+2020-07-09 20:28:22,096 INFO OtusTests [main] Открыта страница отус
+2020-07-09 20:39:28,017 INFO OtusTests [main] driver up and running
+2020-07-09 20:39:30,670 INFO OtusTests [main] Открыта страница отус
+2020-07-09 20:40:51,935 INFO OtusTests [main] driver up and running
+2020-07-09 20:40:54,565 INFO OtusTests [main] Открыта страница отус
+2020-07-09 20:43:28,592 INFO OtusTests [main] driver up and running
+2020-07-09 20:43:31,347 INFO OtusTests [main] Открыта страница отус
+2020-07-09 20:46:37,687 INFO OtusTests [main] driver up and running
+2020-07-09 20:48:09,982 INFO OtusTests [main] driver up and running
+2020-07-09 20:49:07,502 INFO OtusTests [main] driver up and running
+2020-07-09 20:51:15,982 INFO OtusTests [main] driver up and running
+2020-07-09 20:51:18,756 INFO OtusTests [main] [Otus2=Value2; path=/; domain=otus.ru;secure;, Otus1=Value1; path=/; domain=otus.ru;secure;, carrotquest_session=4rvhuyisut65uk63jq5isoh1pf5o2fni; expires=Чт, 09 июл 2020 09:51:18 EEST; path=/; domain=.otus.ru, first-visit=1594317076.6306412; expires=Вс, 09 июл 2023 08:51:16 EEST; path=/; domain=otus.ru, _ga=GA1.2.669174879.1594317078; expires=Сб, 09 июл 2022 08:51:18 EEST; path=/; domain=.otus.ru, _fbp=fb.1.1594317078486.1594406458; expires=Ср, 07 окт 2020 08:51:18 EEST; path=/; domain=.otus.ru, sessionid=6vzs5wfl0p6ad127qgis7g0eu69gw6gp; expires=Ср, 07 окт 2020 08:51:16 EEST; path=/; domain=otus.ru;secure;, oid=35b8773a3b97068287238f368ad69f65; expires=Вс, 09 июл 2023 08:51:18 EEST; path=/; domain=.otus.ru, Otus4=Value4; path=/; domain=otus.ru;secure;, Otus3=Value3; path=/; domain=otus.ru;secure;, _gid=GA1.2.1572372416.1594317078; expires=Пт, 10 июл 2020 08:51:18 EEST; path=/; domain=.otus.ru, visits-count=1; expires=Вс, 09 июл 2023 08:51:16 EEST; path=/; domain=otus.ru]
+2020-07-09 20:51:18,769 INFO OtusTests [main] Otus2=Value2; path=/; domain=otus.ru;secure;
+2020-07-09 20:52:18,465 INFO OtusTests [main] driver up and running
+2020-07-09 20:52:21,579 INFO OtusTests [main] [Otus2=Value2; path=/; domain=otus.ru;secure;, Otus1=Value1; path=/; domain=otus.ru;secure;, carrotquest_session=9v1rxdyuvv8m6mbk9ct7vd2c2wyrje94; expires=Чт, 09 июл 2020 09:52:21 EEST; path=/; domain=.otus.ru, first-visit=1594317139.4193451; expires=Вс, 09 июл 2023 08:52:19 EEST; path=/; domain=otus.ru, _ga=GA1.2.1337726933.1594317141; expires=Сб, 09 июл 2022 08:52:21 EEST; path=/; domain=.otus.ru, _fbp=fb.1.1594317141285.1861179505; expires=Ср, 07 окт 2020 08:52:21 EEST; path=/; domain=.otus.ru, sessionid=jr8k7bh21zkjl21oec3ejyww6sys7e76; expires=Ср, 07 окт 2020 08:52:19 EEST; path=/; domain=otus.ru;secure;, oid=b6d5f24d0e81e2ac0d56fbc7460679a4; expires=Вс, 09 июл 2023 08:52:21 EEST; path=/; domain=.otus.ru, Otus4=Value4; path=/; domain=otus.ru;secure;, Otus3=Value3; path=/; domain=otus.ru;secure;, _gid=GA1.2.1512138045.1594317141; expires=Пт, 10 июл 2020 08:52:21 EEST; path=/; domain=.otus.ru, visits-count=1; expires=Вс, 09 июл 2023 08:52:19 EEST; path=/; domain=otus.ru]
+2020-07-09 20:52:21,593 INFO OtusTests [main] Otus2=Value2; path=/; domain=otus.ru;secure;
+2020-07-09 20:53:12,419 INFO OtusTests [main] driver up and running
+2020-07-09 20:53:15,003 INFO OtusTests [main] [Otus2=Value2; path=/; domain=otus.ru;secure;, Otus1=Value1; path=/; domain=otus.ru;secure;, carrotquest_session=shr9hozsmkps82va5b1404cs5x0ppj4f; expires=Чт, 09 июл 2020 09:53:14 EEST; path=/; domain=.otus.ru, first-visit=1594317193.0144117; expires=Вс, 09 июл 2023 08:53:13 EEST; path=/; domain=otus.ru, _ga=GA1.2.1661332148.1594317194; expires=Сб, 09 июл 2022 08:53:14 EEST; path=/; domain=.otus.ru, _fbp=fb.1.1594317194736.1619205850; expires=Ср, 07 окт 2020 08:53:14 EEST; path=/; domain=.otus.ru, sessionid=wnk0elkjgav1kigg6i3kg1w65n2dghwv; expires=Ср, 07 окт 2020 08:53:13 EEST; path=/; domain=otus.ru;secure;, oid=9995be17df1c31d72ee15ec5940a7aa8; expires=Вс, 09 июл 2023 08:53:13 EEST; path=/; domain=.otus.ru, Otus4=Value4; path=/; domain=otus.ru;secure;, Otus3=Value3; path=/; domain=otus.ru;secure;, _gid=GA1.2.1625459658.1594317194; expires=Пт, 10 июл 2020 08:53:14 EEST; path=/; domain=.otus.ru, visits-count=1; expires=Вс, 09 июл 2023 08:53:13 EEST; path=/; domain=otus.ru]
+2020-07-09 20:53:15,019 INFO OtusTests [main] Otus2=Value2; path=/; domain=otus.ru;secure;
+2020-07-09 20:53:15,140 INFO OtusTests [main] []
+2020-07-09 20:53:15,147 INFO OtusTests [main] null
+2020-07-09 20:55:02,327 INFO OtusTests [main] driver up and running
+2020-07-09 20:55:05,920 INFO OtusTests [main] [Otus2=Value2; path=/; domain=otus.ru;secure;, Otus1=Value1; path=/; domain=otus.ru;secure;, carrotquest_session=avoqqkabqhxvlw3jqgqjd2jbwfave1dt; expires=Чт, 09 июл 2020 09:55:05 EEST; path=/; domain=.otus.ru, first-visit=1594317303.7852533; expires=Вс, 09 июл 2023 08:55:03 EEST; path=/; domain=otus.ru, _ga=GA1.2.290732515.1594317305; expires=Сб, 09 июл 2022 08:55:05 EEST; path=/; domain=.otus.ru, _fbp=fb.1.1594317305671.172117401; expires=Ср, 07 окт 2020 08:55:05 EEST; path=/; domain=.otus.ru, sessionid=dv713bnetjstu2aa7qz2pwv7uoddkstb; expires=Ср, 07 окт 2020 08:55:03 EEST; path=/; domain=otus.ru;secure;, oid=570c3e62a719789d0d6c962dd00a2cb8; expires=Вс, 09 июл 2023 08:55:03 EEST; path=/; domain=.otus.ru, Otus4=Value4; path=/; domain=otus.ru;secure;, Otus3=Value3; path=/; domain=otus.ru;secure;, _gid=GA1.2.304873944.1594317305; expires=Пт, 10 июл 2020 08:55:05 EEST; path=/; domain=.otus.ru, visits-count=1; expires=Вс, 09 июл 2023 08:55:03 EEST; path=/; domain=otus.ru]
+2020-07-09 20:55:05,934 INFO OtusTests [main] Otus2=Value2; path=/; domain=otus.ru;secure;
+2020-07-09 20:55:06,024 INFO OtusTests [main] []
+2020-07-09 20:55:06,031 INFO OtusTests [main] null
+2020-07-09 21:05:43,521 INFO OtusTests [main] driver up and running
+2020-07-09 21:05:46,233 INFO OtusTests [main] [Otus2=Value2; path=/; domain=otus.ru;secure;, Otus1=Value1; path=/; domain=otus.ru;secure;, carrotquest_session=nm1pp2ehjdyeomtkzr8bovfgg3mk6atu; expires=Чт, 09 июл 2020 10:05:45 EEST; path=/; domain=.otus.ru, first-visit=1594317944.1401181; expires=Вс, 09 июл 2023 09:05:44 EEST; path=/; domain=otus.ru, _ga=GA1.2.1917515136.1594317946; expires=Сб, 09 июл 2022 09:05:45 EEST; path=/; domain=.otus.ru, _fbp=fb.1.1594317945960.728475578; expires=Ср, 07 окт 2020 09:05:46 EEST; path=/; domain=.otus.ru, sessionid=qwpqcrmjbdmgt46h2lfz4ezr6vy1ik6u; expires=Ср, 07 окт 2020 09:05:44 EEST; path=/; domain=otus.ru;secure;, oid=539e52f483db3622fd98e4e33c23a0fd; expires=Вс, 09 июл 2023 09:05:46 EEST; path=/; domain=.otus.ru, Otus4=Value4; path=/; domain=otus.ru;secure;, Otus3=Value3; path=/; domain=otus.ru;secure;, _gid=GA1.2.719112982.1594317946; expires=Пт, 10 июл 2020 09:05:45 EEST; path=/; domain=.otus.ru, visits-count=1; expires=Вс, 09 июл 2023 09:05:44 EEST; path=/; domain=otus.ru]
+2020-07-09 21:05:46,249 INFO OtusTests [main] Otus2=Value2; path=/; domain=otus.ru;secure;
+2020-07-09 21:05:46,367 INFO OtusTests [main] []
+2020-07-09 21:05:46,382 INFO OtusTests [main] null
+2020-07-09 21:08:59,032 INFO OtusTests [main] driver up and running
+2020-07-09 21:09:02,574 INFO OtusTests [main] [Otus2=Value2; path=/; domain=otus.ru;secure;, Otus1=Value1; path=/; domain=otus.ru;secure;, carrotquest_session=v6pcevq5r4kf1ofm1g9j9yjepf61huqh; expires=Чт, 09 июл 2020 10:09:02 EEST; path=/; domain=.otus.ru, first-visit=1594318140.28281; expires=Вс, 09 июл 2023 09:09:00 EEST; path=/; domain=otus.ru, _ga=GA1.2.1505652625.1594318142; expires=Сб, 09 июл 2022 09:09:02 EEST; path=/; domain=.otus.ru, _fbp=fb.1.1594318142524.1248876045; expires=Ср, 07 окт 2020 09:09:02 EEST; path=/; domain=.otus.ru, sessionid=0jp3l68z6maxb3rc361tp28kqwmcv38b; expires=Ср, 07 окт 2020 09:09:00 EEST; path=/; domain=otus.ru;secure;, oid=aba8acfb5267008dc8dbcd19f9a9dc27; expires=Вс, 09 июл 2023 09:09:00 EEST; path=/; domain=.otus.ru, Otus4=Value4; path=/; domain=otus.ru;secure;, Otus3=Value3; path=/; domain=otus.ru;secure;, _gid=GA1.2.1828896850.1594318142; expires=Пт, 10 июл 2020 09:09:02 EEST; path=/; domain=.otus.ru, visits-count=1; expires=Вс, 09 июл 2023 09:09:00 EEST; path=/; domain=otus.ru]
+2020-07-09 21:09:02,590 INFO OtusTests [main] Otus2=Value2; path=/; domain=otus.ru;secure;
+2020-07-09 21:09:02,671 INFO OtusTests [main] [_fbp=fb.1.1594318142628.1456475287; expires=Ср, 07 окт 2020 09:09:02 EEST; path=/; domain=.otus.ru]
+2020-07-09 21:09:02,681 INFO OtusTests [main] null
+2020-07-09 21:09:23,977 INFO OtusTests [main] driver up and running
+2020-07-09 21:09:26,597 INFO OtusTests [main] [Otus2=Value2; path=/; domain=otus.ru;secure;, Otus1=Value1; path=/; domain=otus.ru;secure;, carrotquest_session=z21tl7crlqemmfmt0c6uy3ofxef6y10q; expires=Чт, 09 июл 2020 10:09:26 EEST; path=/; domain=.otus.ru, first-visit=1594318164.548655; expires=Вс, 09 июл 2023 09:09:24 EEST; path=/; domain=otus.ru, _ga=GA1.2.1013290883.1594318166; expires=Сб, 09 июл 2022 09:09:26 EEST; path=/; domain=.otus.ru, _fbp=fb.1.1594318166338.1993042504; expires=Ср, 07 окт 2020 09:09:26 EEST; path=/; domain=.otus.ru, sessionid=yvzcb9kqo347jlen4m55hxff2cxtn2ec; expires=Ср, 07 окт 2020 09:09:24 EEST; path=/; domain=otus.ru;secure;, oid=d85f3b0c6810326f2e50b56c5ea03562; expires=Вс, 09 июл 2023 09:09:26 EEST; path=/; domain=.otus.ru, Otus4=Value4; path=/; domain=otus.ru;secure;, Otus3=Value3; path=/; domain=otus.ru;secure;, _gid=GA1.2.1380634096.1594318166; expires=Пт, 10 июл 2020 09:09:26 EEST; path=/; domain=.otus.ru, visits-count=1; expires=Вс, 09 июл 2023 09:09:24 EEST; path=/; domain=otus.ru]
+2020-07-09 21:09:26,613 INFO OtusTests [main] Otus2=Value2; path=/; domain=otus.ru;secure;
+2020-07-09 21:09:26,669 INFO OtusTests [main] []
+2020-07-09 21:09:26,679 INFO OtusTests [main] null
+2020-07-09 21:18:39,442 INFO OtusTests [main] driver up and running
+2020-07-09 21:21:14,172 INFO OtusTests [main] driver up and running
+2020-07-09 21:22:18,486 INFO OtusTests [main] driver up and running
+2020-07-09 21:22:22,163 INFO OtusTests [main] false
+2020-07-09 21:28:09,796 INFO OtusTests [main] driver up and running
+2020-07-09 21:30:01,143 INFO OtusTests [main] driver up and running
+2020-07-09 21:32:55,126 INFO OtusTests [main] driver up and running
+2020-07-09 21:33:17,002 INFO OtusTests [main] driver up and running
+2020-07-09 21:33:52,022 INFO OtusTests [main] driver up and running
+2020-07-09 21:34:38,736 INFO OtusTests [main] driver up and running
+2020-07-09 21:40:33,488 INFO OtusTests [main] driver up and running
+2020-07-09 21:43:31,596 INFO OtusTests [main] driver up and running
+2020-07-09 21:44:26,061 INFO OtusTests [main] driver up and running
+2020-07-09 21:44:56,425 INFO OtusTests [main] driver up and running
+2020-07-09 21:46:12,475 INFO OtusTests [main] driver up and running
+2020-07-09 21:47:45,196 INFO OtusTests [main] driver up and running
+2020-07-09 21:50:09,754 INFO OtusTests [main] driver up and running
+2020-07-09 21:50:45,110 INFO OtusTests [main] driver up and running
+2020-07-09 21:51:54,405 INFO OtusTests [main] driver up and running
+2020-07-09 21:53:10,978 INFO OtusTests [main] driver up and running
+2020-07-09 21:54:18,831 INFO OtusTests [main] driver up and running
+2020-07-09 21:55:10,540 INFO OtusTests [main] driver up and running
+2020-07-09 21:58:24,393 INFO OtusTests [main] driver up and running
+2020-07-09 22:15:32,352 INFO OtusTests [main] driver up and running
+2020-07-09 22:18:06,255 INFO OtusTests [main] driver up and running
+2020-07-09 22:30:30,447 INFO OtusTests [main] driver up and running
+2020-07-09 22:52:18,216 INFO OtusTests [main] driver up and running
+2020-07-09 22:52:19,987 INFO OtusTests [main] google page is opened
+2020-07-09 23:01:51,959 INFO OtusTests [main] driver up and running
+2020-07-09 23:01:53,678 INFO OtusTests [main] google page is opened
+2020-07-09 23:29:11,353 INFO OtusTests [main] driver up and running
+2020-07-09 23:29:13,186 INFO OtusTests [main] google page is opened
+2020-07-09 23:30:38,349 INFO OtusTests [main] driver up and running
+2020-07-09 23:30:40,138 INFO OtusTests [main] google page is opened
+2020-07-09 23:30:48,459 INFO OtusTests [main] OTUS main page is opened
+2020-07-09 23:31:38,664 INFO OtusTests [main] driver up and running
+2020-07-09 23:31:40,493 INFO OtusTests [main] google page is opened
+2020-07-09 23:31:46,138 INFO OtusTests [main] OTUS main page is opened
+2020-07-13 19:54:21,270 INFO OtusTests [main] driver up and running
+2020-07-13 19:54:23,140 INFO OtusTests [main] google page is opened
+2020-07-13 19:54:28,959 INFO OtusTests [main] OTUS main page is opened
+2020-07-13 21:17:35,090 INFO OtusTests [main] driver up and running
+2020-07-13 21:17:37,277 INFO OtusTests [main] google page is opened
+2020-07-14 00:20:18,970 INFO U.WebDriverFactory [main] chrome driver up and running
+2020-07-14 00:21:11,230 INFO U.WebDriverFactory [main] chrome driver up and running
+2020-07-14 00:21:15,136 INFO OtusTests [main] google page is opened
+2020-07-14 00:21:19,557 INFO OtusTests [main] OTUS main page is opened
+2020-07-14 00:21:50,860 INFO U.WebDriverFactory [main] chrome driver up and running
+2020-07-14 00:21:52,234 INFO OtusTests [main] google page is opened
+2020-07-14 00:21:56,734 INFO OtusTests [main] OTUS main page is opened
+2020-07-14 00:23:43,026 INFO U.WebDriverFactory [main] chrome driver up and running
+2020-07-14 00:23:44,804 INFO OtusTests [main] google page is opened
+2020-07-14 00:23:50,188 INFO OtusTests [main] OTUS main page is opened
+2020-07-16 20:37:55,743 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-16 20:38:59,363 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-16 20:41:35,062 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-16 20:41:38,151 INFO OtusTests [main] OTUS main page is opened
+2020-07-16 20:44:09,083 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-16 20:44:12,859 INFO OtusTests [main] OTUS main page is opened
+2020-07-16 21:29:54,017 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-16 21:29:58,763 INFO OtusTests [main] OTUS main page is opened
+2020-07-16 21:31:58,222 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-16 21:32:01,359 INFO OtusTests [main] OTUS main page is opened
+2020-07-16 21:33:46,573 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-16 21:33:49,759 INFO OtusTests [main] OTUS main page is opened
+2020-07-16 21:57:28,467 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-16 21:57:31,907 INFO OtusTests [main] Открыта страница отус
+2020-07-16 21:57:43,745 INFO OtusTests [main] Пользоватль авторизированый
+2020-07-16 21:57:45,870 INFO OtusTests [main] Открыт личный кабинет пользователя
+2020-07-16 21:59:37,688 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-16 21:59:40,395 INFO OtusTests [main] Открыта страница отус
+2020-07-16 21:59:42,479 INFO OtusTests [main] Пользоватль авторизированый
+2020-07-16 21:59:44,465 INFO OtusTests [main] Открыт личный кабинет пользователя
+2020-07-16 22:02:48,153 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-16 22:02:51,498 INFO OtusTests [main] Открыта страница отус
+2020-07-16 22:02:53,615 INFO OtusTests [main] Пользоватль авторизированый
+2020-07-16 22:02:55,227 INFO OtusTests [main] Открыт личный кабинет пользователя
+2020-07-16 22:05:58,274 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-16 22:06:00,769 INFO OtusTests [main] Открыта страница отус
+2020-07-16 22:06:02,927 INFO OtusTests [main] Пользоватль авторизированый
+2020-07-16 22:06:05,010 INFO OtusTests [main] Открыт личный кабинет пользователя
+2020-07-16 22:20:04,613 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-16 22:20:07,286 INFO OtusTests [main] Открыта страница отус
+2020-07-16 22:20:09,614 INFO OtusTests [main] Пользоватль авторизированый
+2020-07-16 22:20:12,879 INFO OtusTests [main] Открыт личный кабинет пользователя
+2020-07-16 22:27:35,136 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-16 22:27:38,440 INFO OtusTests [main] Открыта страница отус
+2020-07-16 22:27:40,521 INFO OtusTests [main] Пользоватль авторизированый
+2020-07-16 22:27:43,207 INFO OtusTests [main] Открыт личный кабинет пользователя
+2020-07-16 22:27:46,317 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-16 22:27:49,135 INFO OtusTests [main] Открыта страница отус
+2020-07-16 22:28:31,568 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-16 22:28:34,134 INFO OtusTests [main] Открыта страница отус
+2020-07-16 22:28:36,443 INFO OtusTests [main] Пользоватль авторизированый
+2020-07-16 22:28:39,024 INFO OtusTests [main] Открыт личный кабинет пользователя
+2020-07-16 22:28:42,196 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-16 22:28:44,636 INFO OtusTests [main] Открыта страница отус
+2020-07-16 22:30:33,435 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-16 22:30:36,023 INFO OtusTests [main] Открыта страница отус
+2020-07-16 22:30:37,947 INFO OtusTests [main] Пользоватль авторизированый
+2020-07-16 22:30:40,675 INFO OtusTests [main] Открыт личный кабинет пользователя
+2020-07-16 22:30:43,549 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-16 22:30:46,083 INFO OtusTests [main] Открыта страница отус
+2020-07-16 22:31:16,819 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-16 22:31:19,487 INFO OtusTests [main] Открыта страница отус
+2020-07-16 22:31:21,300 INFO OtusTests [main] Пользоватль авторизированый
+2020-07-16 22:31:24,577 INFO OtusTests [main] Открыт личный кабинет пользователя
+2020-07-16 22:31:27,482 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-16 22:31:30,023 INFO OtusTests [main] Открыта страница отус
+2020-07-16 22:37:47,171 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-16 22:37:49,893 INFO OtusTests [main] Открыта страница отус
+2020-07-16 22:37:51,840 INFO OtusTests [main] Пользоватль авторизированый
+2020-07-16 22:37:55,079 INFO OtusTests [main] Открыт личный кабинет пользователя
+2020-07-16 22:37:58,058 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-16 22:38:00,895 INFO OtusTests [main] Открыта страница отус
+2020-07-16 22:44:57,502 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-16 22:45:00,318 INFO OtusTests [main] Открыта страница отус
+2020-07-16 22:45:02,212 INFO OtusTests [main] Пользоватль авторизированый
+2020-07-16 22:45:06,718 INFO OtusTests [main] Открыт личный кабинет пользователя
+2020-07-16 22:45:09,721 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-16 22:45:12,757 INFO OtusTests [main] Открыта страница отус
+2020-07-16 22:50:24,844 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-16 22:50:27,999 INFO OtusTests [main] Открыта страница отус
+2020-07-16 22:50:29,884 INFO OtusTests [main] Пользоватль авторизированый
+2020-07-16 22:50:32,673 INFO OtusTests [main] Открыт личный кабинет пользователя
+2020-07-16 22:50:35,707 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-16 22:50:38,307 INFO OtusTests [main] Открыта страница отус
+2020-07-16 22:52:06,855 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-16 22:52:09,465 INFO OtusTests [main] Открыта страница отус
+2020-07-16 22:52:11,277 INFO OtusTests [main] Пользоватль авторизированый
+2020-07-16 22:52:15,125 INFO OtusTests [main] Открыт личный кабинет пользователя
+2020-07-16 22:52:18,069 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-16 22:52:20,648 INFO OtusTests [main] Открыта страница отус
+2020-07-16 22:54:22,036 INFO OtusTests [main] Пользоватль авторизированый
+2020-07-16 22:56:43,017 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-16 22:56:46,078 INFO OtusTests [main] Открыта страница отус
+2020-07-16 22:56:47,872 INFO OtusTests [main] Пользоватль авторизированый
+2020-07-16 22:56:50,674 INFO OtusTests [main] Открыт личный кабинет пользователя
+2020-07-16 22:56:53,559 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-16 22:56:56,256 INFO OtusTests [main] Открыта страница отус
+2020-07-16 23:02:22,175 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-16 23:02:24,915 INFO OtusTests [main] Открыта страница отус
+2020-07-16 23:02:31,144 INFO OtusTests [main] Пользоватль авторизированый
+2020-07-16 23:02:33,737 INFO OtusTests [main] Открыт личный кабинет пользователя
+2020-07-16 23:02:36,728 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-16 23:02:39,283 INFO OtusTests [main] Открыта страница отус
+2020-07-16 23:02:45,445 INFO OtusTests [main] Пользоватль авторизированый
+2020-07-23 20:46:29,623 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-23 20:47:54,519 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-23 20:50:32,420 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-23 20:51:05,504 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-23 20:54:44,399 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-23 20:55:40,964 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-23 20:57:01,669 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-23 20:57:03,460 INFO OtusTests [main] This is an success alert
+×
+2020-07-23 20:57:09,617 INFO OtusTests [main] This is an success alert
+×
+2020-07-23 21:02:10,577 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-23 21:02:11,934 INFO OtusTests [main] Thu Jul 23 2020 21:02:11 GMT+0300 (Восточная Европа, летнее время) - Message successfully changed.
+×
+2020-07-23 21:02:18,080 INFO OtusTests [main] Thu Jul 23 2020 21:02:17 GMT+0300 (Восточная Европа, летнее время) - Message successfully changed.
+×
+2020-07-23 21:03:26,984 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-23 21:03:28,440 INFO OtusTests [main] This is an success alert
+×
+2020-07-23 21:03:29,565 INFO OtusTests [main] This is an success alert
+×
+2020-07-23 21:03:58,616 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-23 21:04:00,195 INFO OtusTests [main] Thu Jul 23 2020 21:03:59 GMT+0300 (Восточная Европа, летнее время) - Message successfully changed.
+×
+2020-07-23 21:04:01,317 INFO OtusTests [main] Thu Jul 23 2020 21:04:01 GMT+0300 (Восточная Европа, летнее время) - Message successfully changed.
+×
+2020-07-23 21:08:13,079 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-23 21:08:16,531 INFO OtusTests [main] Открыта страница отус
+2020-07-23 21:08:22,608 INFO OtusTests [main] Пользоватль авторизированый
+2020-07-23 21:08:25,307 INFO OtusTests [main] Открыт личный кабинет пользователя
+2020-07-23 21:08:28,141 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-23 21:08:30,682 INFO OtusTests [main] Открыта страница отус
+2020-07-23 21:08:36,587 INFO OtusTests [main] Пользоватль авторизированый
+2020-07-23 21:15:02,842 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-23 21:16:06,455 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-23 21:17:23,314 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-23 21:17:26,697 INFO OtusTests [main] [Otus1=Value1; path=/; domain=otus.ru;secure;, first-visit=1595528244.6413362; expires=Вс, 23 июл 2023 09:17:24 EEST; path=/; domain=otus.ru, _ga=GA1.2.1637145630.1595528246; expires=Сб, 23 июл 2022 09:17:26 EEST; path=/; domain=.otus.ru, _fbp=fb.1.1595528246466.1731947591; expires=Ср, 21 окт 2020 09:17:26 EEST; path=/; domain=.otus.ru, sessionid=5t88ogygx0m47s6f65f4qr7o0j79n9ib; expires=Ср, 21 окт 2020 09:17:24 EEST; path=/; domain=otus.ru;secure;, oid=18a503bca64b4c6959d77e121a33aeb0; expires=Вс, 23 июл 2023 09:17:24 EEST; path=/; domain=.otus.ru, _gid=GA1.2.940892569.1595528246; expires=Пт, 24 июл 2020 09:17:26 EEST; path=/; domain=.otus.ru, visits-count=1; expires=Вс, 23 июл 2023 09:17:24 EEST; path=/; domain=otus.ru, Otus3=Value3; path=/; domain=otus.ru;secure;]
+2020-07-23 21:17:26,722 INFO OtusTests [main] null
+2020-07-23 21:17:26,772 INFO OtusTests [main] 0
+2020-07-23 21:17:26,781 INFO OtusTests [main] null
+2020-07-23 21:17:57,403 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-23 21:19:26,377 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-23 21:19:29,135 INFO OtusTests [main] [Otus1=Value1; path=/; domain=otus.ru;secure;, first-visit=1595528367.1848996; expires=Вс, 23 июл 2023 09:19:27 EEST; path=/; domain=otus.ru, _ga=GA1.2.46868288.1595528369; expires=Сб, 23 июл 2022 09:19:28 EEST; path=/; domain=.otus.ru, _fbp=fb.1.1595528368915.1388250561; expires=Ср, 21 окт 2020 09:19:29 EEST; path=/; domain=.otus.ru, sessionid=wy97mjd1jcwn3mrbs9osebcjtr29oi14; expires=Ср, 21 окт 2020 09:19:27 EEST; path=/; domain=otus.ru;secure;, oid=0920846829ea5986bf69d1d091922593; expires=Вс, 23 июл 2023 09:19:27 EEST; path=/; domain=.otus.ru, _gid=GA1.2.988005378.1595528369; expires=Пт, 24 июл 2020 09:19:28 EEST; path=/; domain=.otus.ru, visits-count=1; expires=Вс, 23 июл 2023 09:19:27 EEST; path=/; domain=otus.ru, Otus3=Value3; path=/; domain=otus.ru;secure;]
+2020-07-23 21:19:29,148 INFO OtusTests [main] null
+2020-07-23 21:19:29,269 INFO OtusTests [main] 0
+2020-07-23 21:19:29,277 INFO OtusTests [main] null
+2020-07-23 21:19:54,343 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-23 21:19:57,200 INFO OtusTests [main] [Otus1=Value1; path=/; domain=otus.ru;secure;, auth_token_expires=1690135916; path=/; domain=otus.ru;secure;, first-visit=1595528395.195095; expires=Вс, 23 июл 2023 09:19:55 EEST; path=/; domain=otus.ru, _ga=GA1.2.921301913.1595528397; expires=Сб, 23 июл 2022 09:19:56 EEST; path=/; domain=.otus.ru, _fbp=fb.1.1595528396942.1052055586; expires=Ср, 21 окт 2020 09:19:57 EEST; path=/; domain=.otus.ru, sessionid=hg19fs2vtt43skobmiahjvkrorbpkgkt; expires=Ср, 21 окт 2020 09:19:55 EEST; path=/; domain=otus.ru;secure;, oid=f9b3c02135bef1e6c0cbb98e37b74957; expires=Вс, 23 июл 2023 09:19:55 EEST; path=/; domain=.otus.ru, auth_token=680B7RmzCkwAOCE1c1Bk7A; path=/; domain=otus.ru;secure;, _gid=GA1.2.1450202453.1595528397; expires=Пт, 24 июл 2020 09:19:56 EEST; path=/; domain=.otus.ru, visits-count=1; expires=Вс, 23 июл 2023 09:19:55 EEST; path=/; domain=otus.ru, Otus3=Value3; path=/; domain=otus.ru;secure;]
+2020-07-23 21:19:57,215 INFO OtusTests [main] null
+2020-07-23 21:19:57,325 INFO OtusTests [main] 0
+2020-07-23 21:19:57,333 INFO OtusTests [main] null
+2020-07-23 21:20:35,510 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-23 21:23:41,195 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-23 21:23:44,033 INFO OtusTests [main] [Otus1=Value1; path=/; domain=otus.ru;secure;, auth_token_expires=1690135916; path=/; domain=otus.ru;secure;, first-visit=1595528621.9071686; expires=Вс, 23 июл 2023 09:23:41 EEST; path=/; domain=otus.ru, _ga=GA1.2.673546821.1595528624; expires=Сб, 23 июл 2022 09:23:43 EEST; path=/; domain=.otus.ru, _fbp=fb.1.1595528623777.1379724628; expires=Ср, 21 окт 2020 09:23:43 EEST; path=/; domain=.otus.ru, sessionid=tbtpbo7h6r94fnuspfvmfwivtcszsb0v; expires=Ср, 21 окт 2020 09:23:41 EEST; path=/; domain=otus.ru;secure;, oid=967544f97abc97c1caa46229bb4abe75; expires=Вс, 23 июл 2023 09:23:41 EEST; path=/; domain=.otus.ru, auth_token=680B7RmzCkwAOCE1c1Bk7A; path=/; domain=otus.ru;secure;, _gid=GA1.2.1711810367.1595528624; expires=Пт, 24 июл 2020 09:23:43 EEST; path=/; domain=.otus.ru, visits-count=1; expires=Вс, 23 июл 2023 09:23:41 EEST; path=/; domain=otus.ru, Otus3=Value3; path=/; domain=otus.ru;secure;]
+2020-07-23 21:23:44,050 INFO OtusTests [main] null
+2020-07-23 21:23:44,163 INFO OtusTests [main] 0
+2020-07-23 21:23:44,172 INFO OtusTests [main] null
+2020-07-23 21:25:53,993 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-23 21:25:56,836 INFO OtusTests [main] Открыта страница отус
+2020-07-23 21:26:44,132 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-23 21:26:46,922 INFO OtusTests [main] Открыта страница отус
+2020-07-23 21:27:39,591 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-23 21:27:42,309 INFO OtusTests [main] Открыта страница отус
+2020-07-23 21:27:45,210 INFO OtusTests [main] Открыт личный кабинет пользователя
+2020-07-23 21:32:26,063 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-23 21:32:28,877 INFO OtusTests [main] Открыта страница отус
+2020-07-23 21:33:03,606 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-23 21:33:06,610 INFO OtusTests [main] Открыта страница отус
+2020-07-25 14:30:29,375 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-25 14:30:32,684 INFO OtusTests [main] Открыта страница отус
+2020-07-25 14:32:01,842 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-25 14:32:05,087 INFO OtusTests [main] Открыта страница отус
+2020-07-25 14:32:56,747 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-25 14:32:59,409 INFO OtusTests [main] Открыта страница отус
+2020-07-25 14:34:28,863 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-25 14:34:32,958 INFO OtusTests [main] Открыта страница отус
+2020-07-25 14:42:12,961 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-25 14:42:15,538 INFO OtusTests [main] Открыта страница отус
+2020-07-25 14:46:29,903 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-25 14:46:34,303 INFO OtusTests [main] Открыта страница отус
+2020-07-25 14:48:26,669 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-25 14:48:29,355 INFO OtusTests [main] Открыта страница отус
+2020-07-25 14:48:57,942 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-25 14:49:00,527 INFO OtusTests [main] Открыта страница отус
+2020-07-25 14:50:35,605 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-25 14:50:40,087 INFO OtusTests [main] Открыта страница отус
+2020-07-25 14:51:01,059 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-25 14:51:03,896 INFO OtusTests [main] Открыта страница отус
+2020-07-27 21:07:02,641 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-27 21:09:03,570 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-27 21:09:41,668 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-27 21:19:56,069 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-30 15:59:55,459 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-30 15:59:59,080 INFO OtusTests [main] OTUS main page is opened
+2020-07-30 16:01:35,009 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-30 16:01:47,802 INFO OtusTests [main] OTUS main page is opened
+2020-07-30 16:30:23,542 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-30 16:30:25,840 INFO OtusTests [main] Открыта страница отус
+2020-07-30 16:30:31,880 INFO OtusTests [main] Пользоватль авторизированый
+2020-07-30 16:30:35,211 INFO OtusTests [main] Открыт личный кабинет пользователя
+2020-07-30 16:30:37,934 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-30 16:30:41,096 INFO OtusTests [main] Открыта страница отус
+2020-07-30 16:30:46,967 INFO OtusTests [main] Пользоватль авторизированый
+2020-07-30 16:39:06,026 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-30 16:39:09,136 INFO OtusTests [main] Открыта страница отус
+2020-07-30 16:40:33,322 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-30 16:40:35,903 INFO OtusTests [main] Открыта страница отус
+2020-07-30 16:41:06,804 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-30 16:41:10,026 INFO OtusTests [main] Открыта страница отус
+2020-07-30 16:43:25,785 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-30 16:43:28,381 INFO OtusTests [main] Открыта страница отус
+2020-07-30 16:45:41,377 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-30 16:45:45,223 INFO OtusTests [main] Открыта страница отус
+2020-07-30 16:45:51,188 INFO OtusTests [main] Пользоватль авторизированый
+2020-07-30 16:45:54,235 INFO OtusTests [main] Открыт личный кабинет пользователя
+2020-07-30 16:45:56,908 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-30 16:45:59,373 INFO OtusTests [main] Открыта страница отус
+2020-07-30 16:46:05,253 INFO OtusTests [main] Пользоватль авторизированый
+2020-07-30 16:53:01,339 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-30 16:53:04,450 INFO OtusTests [main] Открыта страница отус
+2020-07-30 16:58:23,431 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-30 16:59:13,243 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-30 16:59:58,323 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-30 17:00:37,470 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-30 17:00:39,500 INFO OtusTests [main] google page is opened
+2020-07-30 17:02:23,942 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-30 17:02:25,982 INFO OtusTests [main] google page is opened
+2020-07-30 17:03:28,973 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-30 17:03:30,685 INFO OtusTests [main] google page is opened
+2020-07-30 17:03:34,934 INFO OtusTests [main] OTUS main page is opened
+2020-07-30 17:04:14,638 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-30 17:04:26,312 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-30 17:04:31,035 INFO OtusTests [main] [Otus1=Value1; path=/; domain=otus.ru;secure;, first-visit=1596117867.2126062; expires=Вс, 30 июл 2023 05:04:27 EEST; path=/; domain=otus.ru, _ga=GA1.2.282897108.1596117870; expires=Сб, 30 июл 2022 05:04:29 EEST; path=/; domain=.otus.ru, _fbp=fb.1.1596117870816.2048600515; expires=Ср, 28 окт 2020 04:04:30 EET; path=/; domain=.otus.ru, sessionid=m09en8rw019q1vndnycjtnkui8x66dmd; expires=Ср, 28 окт 2020 04:04:27 EET; path=/; domain=otus.ru;secure;, oid=a6602e6d563bf0dd0c0cf5da9230c7a6; expires=Вс, 30 июл 2023 05:04:27 EEST; path=/; domain=.otus.ru, _gid=GA1.2.1852970429.1596117870; expires=Пт, 31 июл 2020 05:04:29 EEST; path=/; domain=.otus.ru, visits-count=1; expires=Вс, 30 июл 2023 05:04:27 EEST; path=/; domain=otus.ru, Otus3=Value3; path=/; domain=otus.ru;secure;]
+2020-07-30 17:04:31,051 INFO OtusTests [main] null
+2020-07-30 17:04:31,115 INFO OtusTests [main] 0
+2020-07-30 17:04:31,121 INFO OtusTests [main] null
+2020-07-30 17:04:32,413 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-30 17:04:35,241 INFO OtusTests [main] Открыта страница отус
+2020-07-30 17:04:41,152 INFO OtusTests [main] Пользоватль авторизированый
+2020-07-30 17:04:44,101 INFO OtusTests [main] Открыт личный кабинет пользователя
+2020-07-30 17:04:46,706 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-30 17:04:49,446 INFO OtusTests [main] Открыта страница отус
+2020-07-30 17:04:55,318 INFO OtusTests [main] Пользоватль авторизированый
+2020-07-30 17:04:56,569 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-30 17:04:59,860 INFO OtusTests [main] OTUS main page is opened
+2020-07-30 17:05:01,115 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-30 17:05:02,348 INFO OtusTests [main] Thu Jul 30 2020 17:05:02 GMT+0300 (Восточная Европа, летнее время) - Message successfully changed.
+×
+2020-07-30 17:05:03,454 INFO OtusTests [main] Thu Jul 30 2020 17:05:03 GMT+0300 (Восточная Европа, летнее время) - Message successfully changed.
+×
+2020-07-30 17:06:21,984 INFO U.WebDriverFactory [main] set up chrome driver
