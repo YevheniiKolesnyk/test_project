@@ -60,7 +60,7 @@ public class BaseTest {
 
     void waitUntilClickableAndClick(String webElement) {
         WebElement element = driver.findElement(Locators.get(webElement));
-        new WebDriverWait(driver, 15)
+        new WebDriverWait(driver, 10)
                 .until(ExpectedConditions.elementToBeClickable(element)).click();
     }
 }

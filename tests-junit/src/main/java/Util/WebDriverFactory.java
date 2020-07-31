@@ -33,12 +33,29 @@ public class WebDriverFactory {
         return driver;
     }
 
+    public static WebDriver createNewDriver(String webDriverName, String driverOptions) {
+
+        WebDriver driver = null;
+
+        if (webDriverName.equalsIgnoreCase("Chrome")) {
+
+            driver = setUpChromeDriver(driverOptions);
+            logger.info("set up chrome driver");
+
+        } else if (webDriverName.equalsIgnoreCase("FireFox")) {
+
+            driver = setUpFireFoxDriver(driverOptions);
+            logger.info("set up firefox driver");
+
+        }
+        return driver;
+    }
+
     private static WebDriver setUpChromeDriver() {
 
         WebDriverManager.chromedriver().setup();
 
         ChromeOptions options = new ChromeOptions();
-//        options.addArguments(driverOptions);
 
         return driver = new ChromeDriver(options);
     }
@@ -48,7 +65,26 @@ public class WebDriverFactory {
         WebDriverManager.firefoxdriver().setup();
 
         FirefoxOptions options = new FirefoxOptions();
-//        options.addArguments();
+
+        return driver = new FirefoxDriver(options);
+    }
+
+    private static WebDriver setUpChromeDriver(String driverOptions) {
+
+        WebDriverManager.chromedriver().setup();
+
+        ChromeOptions options = new ChromeOptions();
+        options.addArguments(driverOptions);
+
+        return driver = new ChromeDriver(options);
+    }
+
+    private static WebDriver setUpFireFoxDriver(String driverOptions) {
+
+        WebDriverManager.firefoxdriver().setup();
+
+        FirefoxOptions options = new FirefoxOptions();
+        options.addArguments(driverOptions);
 
         return driver = new FirefoxDriver(options);
     }

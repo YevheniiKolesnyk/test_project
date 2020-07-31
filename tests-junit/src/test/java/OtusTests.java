@@ -107,8 +107,8 @@ public class OtusTests extends BaseTest {
 
         //6. Открыть https://otus.ru в "чистом браузере"
         driver.quit();
-        driver = WebDriverFactory.createNewDriver("Chrome");
-        driver.manage().window().maximize();
+        setUp();
+        
         driver.get(cfg.otusUrl());
         logger.info("Открыта страница отус");
 

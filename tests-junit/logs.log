@@ -520,3 +520,10 @@
 2020-07-31 22:09:50,629 INFO U.WebDriverFactory [main] set up chrome driver
 2020-07-31 22:09:53,574 INFO OtusTests [main] Открыта страница отус
 2020-07-31 22:09:55,374 INFO OtusTests [main] Пользоватль авторизированый
+2020-07-31 22:16:46,290 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-31 22:16:48,973 INFO OtusTests [main] Открыта страница отус
+2020-07-31 22:16:51,066 INFO OtusTests [main] Пользоватль авторизированый
+2020-07-31 22:16:53,901 INFO OtusTests [main] Открыт личный кабинет пользователя
+2020-07-31 22:16:56,543 INFO U.WebDriverFactory [main] set up chrome driver
+2020-07-31 22:16:59,627 INFO OtusTests [main] Открыта страница отус
+2020-07-31 22:17:01,362 INFO OtusTests [main] Пользоватль авторизированый
