@@ -15,40 +15,40 @@ public class WebDriverFactory {
 
     protected static WebDriver driver;
 
-    public static WebDriver createNewDriver(String webDriverName, String driverOptions) {
+    public static WebDriver createNewDriver(String webDriverName) {
 
         WebDriver driver = null;
 
         if (webDriverName.equalsIgnoreCase("Chrome")) {
 
-            driver = setUpChromeDriver(driverOptions);
+            driver = setUpChromeDriver();
             logger.info("set up chrome driver");
 
         } else if (webDriverName.equalsIgnoreCase("FireFox")) {
 
-            driver = setUpFireFoxDriver(driverOptions);
+            driver = setUpFireFoxDriver();
             logger.info("set up firefox driver");
 
         }
         return driver;
     }
 
-    private static WebDriver setUpChromeDriver(String driverOptions) {
+    private static WebDriver setUpChromeDriver() {
 
         WebDriverManager.chromedriver().setup();
 
         ChromeOptions options = new ChromeOptions();
-        options.addArguments(driverOptions);
+//        options.addArguments(driverOptions);
 
         return driver = new ChromeDriver(options);
     }
 
-    private static WebDriver setUpFireFoxDriver(String driverOptions) {
+    private static WebDriver setUpFireFoxDriver() {
 
         WebDriverManager.firefoxdriver().setup();
 
         FirefoxOptions options = new FirefoxOptions();
-        options.addArguments(driverOptions);
+//        options.addArguments();
 
         return driver = new FirefoxDriver(options);
     }

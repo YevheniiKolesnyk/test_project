@@ -1,42 +1,47 @@
 import Util.WebDriverFactory;
+import com.google.common.io.Files;
 import config.Locators;
-import config.ServerConfig;
-import org.aeonbits.owner.ConfigFactory;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import org.junit.After;
 import org.junit.Assert;
-import org.junit.Before;
 import org.junit.Test;
 import org.openqa.selenium.*;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-import java.util.concurrent.TimeUnit;
+import java.io.File;
+import java.io.IOException;
 
 import static org.openqa.selenium.support.ui.ExpectedConditions.visibilityOf;
 
-public class OtusTests {
+public class OtusTests extends BaseTest {
 
     private Logger logger = LogManager.getLogger(OtusTests.class);
 
-    private ServerConfig cfg = ConfigFactory.create(ServerConfig.class);
+    // Пример работы со скриншотами
+    @SuppressWarnings("UnstableApiUsage")
+    @Test
+    public void screenShotTest() {
+        driver.get(cfg.otusUrl());
+        logger.info("Открыта страница отус");
 
-    protected static WebDriver driver;
+        waitUntilVisible("signInAndRegistration");
 
-    @Before
-    public void setUp() {
-        driver = WebDriverFactory.createNewDriver("Chrome", "test");
-        driver.manage().window().maximize();
-        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-    }
-
-    @After
-    public void setDown() {
-        if (driver != null) {
-            driver.quit();
+        File tempFile = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
+        try {
+            Files.copy(tempFile, new File("screenshots/otus_main_page_screenshot.png"));
+        } catch (IOException e) {
+            e.printStackTrace();
         }
     }
+
+//    @Test
+//    public void aShotScreenshotTest() throws IOException {
+//        Screenshot imageScreenshot = new AShot()
+//                .shootingStrategy(ShootingStrategies.viewportPasting(1000)).takeScreenshot(driver);
+//        ImageIO.write(imageScreenshot.getImage(), "png", new File("pathname"));
+//        File f = new File("pathname");
+//    }
 
     // Пример работы с алертами
     @Test
@@ -49,7 +54,7 @@ public class OtusTests {
 
     // Пример теста в котором мы не можем обойтись без неяного ожидания
     @Test
-    public void newTest() throws InterruptedException {
+    public void threadSleepTest() throws InterruptedException {
         driver.get("https://ng-bootstrap.github.io/#/components/alert/examples");
         clickOnChangeMsg();
         String firstAlertText = getAlertMsg();
@@ -74,7 +79,7 @@ public class OtusTests {
 
     // 10 Урок - домашнее задане
     @Test
-    public void mySecondTest() throws InterruptedException {
+    public void otusTest() throws InterruptedException {
         //1. Открыть otus.ru
         driver.get(cfg.otusUrl());
         logger.info("Открыта страница отус");
@@ -88,21 +93,21 @@ public class OtusTests {
         logger.info("Открыт личный кабинет пользователя");
 
         //4. В разделе О себе заполнить поля и добавить не менее двух контактов
-        waitUntilVisible("cyrillicName").clear();
-        waitUntilVisible("cyrillicName").sendKeys("Евгений");
-        waitUntilVisible("cyrillicSurname").clear();
-        waitUntilVisible("cyrillicSurname").sendKeys("Колесник");
-        waitUntilVisible("latinName").clear();
-        waitUntilVisible("latinName").sendKeys("Yevhenii");
-        waitUntilVisible("latinSurname").clear();
-        waitUntilVisible("latinSurname").sendKeys("Kolesnyk");
+        waitUntilElementVisible("cyrillicName").clear();
+        waitUntilElementVisible("cyrillicName").sendKeys("Евгений");
+        waitUntilElementVisible("cyrillicSurname").clear();
+        waitUntilElementVisible("cyrillicSurname").sendKeys("Колесник");
+        waitUntilElementVisible("latinName").clear();
+        waitUntilElementVisible("latinName").sendKeys("Yevhenii");
+        waitUntilElementVisible("latinSurname").clear();
+        waitUntilElementVisible("latinSurname").sendKeys("Kolesnyk");
 
         //5. Нажать сохранить
-        waitUntilVisible("saveAndContinue").click();
+        waitUntilElementVisible("saveAndContinue").click();
 
         //6. Открыть https://otus.ru в "чистом браузере"
         driver.quit();
-        driver = WebDriverFactory.createNewDriver("Chrome", "test");
+        driver = WebDriverFactory.createNewDriver("Chrome");
         driver.manage().window().maximize();
         driver.get(cfg.otusUrl());
         logger.info("Открыта страница отус");
@@ -111,24 +116,8 @@ public class OtusTests {
         signInOtus();
     }
 
-    private void signInOtus() throws InterruptedException {
-        waitUntilVisible("signInAndRegistration").click();
-        Thread.sleep(5000);
-        waitUntilVisible("emailTextField").sendKeys(cfg.email());
-        waitUntilVisible("passwordTextField").sendKeys(cfg.password());
-        waitUntilVisible("enterButton").click();
-        logger.info("Пользоватль авторизированый");
-    }
-
-    static WebElement waitUntilVisible(String webElement) {
-        WebElement element = driver.findElement(Locators.get(webElement));
-        new WebDriverWait(driver, 10)
-                .until(ExpectedConditions.visibilityOfElementLocated(Locators.get(webElement)));
-        return element;
-    }
-
     @Test
-    public void openOtusPage() throws InterruptedException {
+    public void openOtusPage() {
         driver.get(cfg.otusUrl());
         driver.findElement(By.xpath("//title[contains(text(),'Онлайн‑курсы для профессионалов')]"));
         driver.findElement(Locators.get("signInAndRegistration")).click();
@@ -157,5 +146,14 @@ public class OtusTests {
         logger.info(driver.manage().getCookieNamed("Otus2"));
 
         Assert.assertNull(driver.manage().getCookieNamed("Otus2"));
+    }
+
+    private void signInOtus() {
+        waitUntilElementVisible("signInAndRegistration").click();
+        waitUntilVisible("emailTextField");
+        waitUntilElementVisible("emailTextField").sendKeys(cfg.email());
+        waitUntilElementVisible("passwordTextField").sendKeys(cfg.password());
+        waitUntilElementVisible("enterButton").click();
+        logger.info("Пользоватль авторизированый");
     }
 }

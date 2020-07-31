@@ -21,4 +21,7 @@ public interface ServerConfig extends Config {
     @Key("otusPersonal")
     String otusPersonal();
 
+    @Key("yaMarket")
+    String yaMarket();
+
 }
